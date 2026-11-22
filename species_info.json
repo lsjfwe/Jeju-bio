@@ -1,0 +1,3404 @@
+{
+  "0": {
+    "id": 0,
+    "korean_name": "Abies koreana",
+    "scientific_name": "Abies koreana",
+    "taxon_group": "생물",
+    "jeju_observations": 45,
+    "child_description": "안녕! 나는 'Abies koreana'(학명: Abies koreana)이야. 제주도에서 45번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Abies%20koreana"
+  },
+  "1": {
+    "id": 1,
+    "korean_name": "Accipiter nisus",
+    "scientific_name": "Accipiter nisus",
+    "taxon_group": "생물",
+    "jeju_observations": 45,
+    "child_description": "안녕! 나는 'Accipiter nisus'(학명: Accipiter nisus)이야. 제주도에서 45번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Accipiter%20nisus"
+  },
+  "2": {
+    "id": 2,
+    "korean_name": "Accipiter nisus nisosimilis",
+    "scientific_name": "Accipiter nisus nisosimilis",
+    "taxon_group": "생물",
+    "jeju_observations": 12,
+    "child_description": "안녕! 나는 'Accipiter nisus nisosimilis'(학명: Accipiter nisus nisosimilis)이야. 제주도에서 12번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Accipiter%20nisus%20nisosimilis"
+  },
+  "3": {
+    "id": 3,
+    "korean_name": "Acer palmatum",
+    "scientific_name": "Acer palmatum",
+    "taxon_group": "생물",
+    "jeju_observations": 16,
+    "child_description": "안녕! 나는 'Acer palmatum'(학명: Acer palmatum)이야. 제주도에서 16번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Acer%20palmatum"
+  },
+  "4": {
+    "id": 4,
+    "korean_name": "Acer pseudosieboldianum",
+    "scientific_name": "Acer pseudosieboldianum",
+    "taxon_group": "생물",
+    "jeju_observations": 33,
+    "child_description": "안녕! 나는 'Acer pseudosieboldianum'(학명: Acer pseudosieboldianum)이야. 제주도에서 33번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Acer%20pseudosieboldianum"
+  },
+  "5": {
+    "id": 5,
+    "korean_name": "Acrida cinerea",
+    "scientific_name": "Acrida cinerea",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Acrida cinerea'(학명: Acrida cinerea)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Acrida%20cinerea"
+  },
+  "6": {
+    "id": 6,
+    "korean_name": "Acrocephalus orientalis",
+    "scientific_name": "Acrocephalus orientalis",
+    "taxon_group": "생물",
+    "jeju_observations": 16,
+    "child_description": "안녕! 나는 'Acrocephalus orientalis'(학명: Acrocephalus orientalis)이야. 제주도에서 16번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Acrocephalus%20orientalis"
+  },
+  "7": {
+    "id": 7,
+    "korean_name": "Actitis hypoleucos",
+    "scientific_name": "Actitis hypoleucos",
+    "taxon_group": "생물",
+    "jeju_observations": 67,
+    "child_description": "안녕! 나는 'Actitis hypoleucos'(학명: Actitis hypoleucos)이야. 제주도에서 67번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Actitis%20hypoleucos"
+  },
+  "8": {
+    "id": 8,
+    "korean_name": "Aegithalos caudatus",
+    "scientific_name": "Aegithalos caudatus",
+    "taxon_group": "생물",
+    "jeju_observations": 34,
+    "child_description": "안녕! 나는 'Aegithalos caudatus'(학명: Aegithalos caudatus)이야. 제주도에서 34번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Aegithalos%20caudatus"
+  },
+  "9": {
+    "id": 9,
+    "korean_name": "Aegosoma sinicum",
+    "scientific_name": "Aegosoma sinicum",
+    "taxon_group": "생물",
+    "jeju_observations": 13,
+    "child_description": "안녕! 나는 'Aegosoma sinicum'(학명: Aegosoma sinicum)이야. 제주도에서 13번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Aegosoma%20sinicum"
+  },
+  "10": {
+    "id": 10,
+    "korean_name": "Agapanthia amurensis",
+    "scientific_name": "Agapanthia amurensis",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Agapanthia amurensis'(학명: Agapanthia amurensis)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Agapanthia%20amurensis"
+  },
+  "11": {
+    "id": 11,
+    "korean_name": "Agropsar philippensis",
+    "scientific_name": "Agropsar philippensis",
+    "taxon_group": "생물",
+    "jeju_observations": 15,
+    "child_description": "안녕! 나는 'Agropsar philippensis'(학명: Agropsar philippensis)이야. 제주도에서 15번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Agropsar%20philippensis"
+  },
+  "12": {
+    "id": 12,
+    "korean_name": "Aix galericulata",
+    "scientific_name": "Aix galericulata",
+    "taxon_group": "생물",
+    "jeju_observations": 39,
+    "child_description": "안녕! 나는 'Aix galericulata'(학명: Aix galericulata)이야. 제주도에서 39번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Aix%20galericulata"
+  },
+  "13": {
+    "id": 13,
+    "korean_name": "Ajuga decumbens",
+    "scientific_name": "Ajuga decumbens",
+    "taxon_group": "생물",
+    "jeju_observations": 12,
+    "child_description": "안녕! 나는 'Ajuga decumbens'(학명: Ajuga decumbens)이야. 제주도에서 12번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Ajuga%20decumbens"
+  },
+  "14": {
+    "id": 14,
+    "korean_name": "Akebia quinata",
+    "scientific_name": "Akebia quinata",
+    "taxon_group": "생물",
+    "jeju_observations": 15,
+    "child_description": "안녕! 나는 'Akebia quinata'(학명: Akebia quinata)이야. 제주도에서 15번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Akebia%20quinata"
+  },
+  "15": {
+    "id": 15,
+    "korean_name": "Alauda arvensis",
+    "scientific_name": "Alauda arvensis",
+    "taxon_group": "생물",
+    "jeju_observations": 46,
+    "child_description": "안녕! 나는 'Alauda arvensis'(학명: Alauda arvensis)이야. 제주도에서 46번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Alauda%20arvensis"
+  },
+  "16": {
+    "id": 16,
+    "korean_name": "Alcedo atthis",
+    "scientific_name": "Alcedo atthis",
+    "taxon_group": "생물",
+    "jeju_observations": 48,
+    "child_description": "안녕! 나는 'Alcedo atthis'(학명: Alcedo atthis)이야. 제주도에서 48번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Alcedo%20atthis"
+  },
+  "17": {
+    "id": 17,
+    "korean_name": "Amana edulis",
+    "scientific_name": "Amana edulis",
+    "taxon_group": "생물",
+    "jeju_observations": 14,
+    "child_description": "안녕! 나는 'Amana edulis'(학명: Amana edulis)이야. 제주도에서 14번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Amana%20edulis"
+  },
+  "18": {
+    "id": 18,
+    "korean_name": "Anapodisma beybienkoi",
+    "scientific_name": "Anapodisma beybienkoi",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Anapodisma beybienkoi'(학명: Anapodisma beybienkoi)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Anapodisma%20beybienkoi"
+  },
+  "19": {
+    "id": 19,
+    "korean_name": "Anarhynchus alexandrinus",
+    "scientific_name": "Anarhynchus alexandrinus",
+    "taxon_group": "생물",
+    "jeju_observations": 45,
+    "child_description": "안녕! 나는 'Anarhynchus alexandrinus'(학명: Anarhynchus alexandrinus)이야. 제주도에서 45번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Anarhynchus%20alexandrinus"
+  },
+  "20": {
+    "id": 20,
+    "korean_name": "Anarhynchus mongolus",
+    "scientific_name": "Anarhynchus mongolus",
+    "taxon_group": "생물",
+    "jeju_observations": 22,
+    "child_description": "안녕! 나는 'Anarhynchus mongolus'(학명: Anarhynchus mongolus)이야. 제주도에서 22번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Anarhynchus%20mongolus"
+  },
+  "21": {
+    "id": 21,
+    "korean_name": "Anas acuta",
+    "scientific_name": "Anas acuta",
+    "taxon_group": "생물",
+    "jeju_observations": 21,
+    "child_description": "안녕! 나는 'Anas acuta'(학명: Anas acuta)이야. 제주도에서 21번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Anas%20acuta"
+  },
+  "22": {
+    "id": 22,
+    "korean_name": "Anas crecca",
+    "scientific_name": "Anas crecca",
+    "taxon_group": "생물",
+    "jeju_observations": 17,
+    "child_description": "안녕! 나는 'Anas crecca'(학명: Anas crecca)이야. 제주도에서 17번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Anas%20crecca"
+  },
+  "23": {
+    "id": 23,
+    "korean_name": "Anas crecca crecca",
+    "scientific_name": "Anas crecca crecca",
+    "taxon_group": "생물",
+    "jeju_observations": 34,
+    "child_description": "안녕! 나는 'Anas crecca crecca'(학명: Anas crecca crecca)이야. 제주도에서 34번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Anas%20crecca%20crecca"
+  },
+  "24": {
+    "id": 24,
+    "korean_name": "Anas platyrhynchos",
+    "scientific_name": "Anas platyrhynchos",
+    "taxon_group": "생물",
+    "jeju_observations": 77,
+    "child_description": "안녕! 나는 'Anas platyrhynchos'(학명: Anas platyrhynchos)이야. 제주도에서 77번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Anas%20platyrhynchos"
+  },
+  "25": {
+    "id": 25,
+    "korean_name": "Anas zonorhyncha",
+    "scientific_name": "Anas zonorhyncha",
+    "taxon_group": "생물",
+    "jeju_observations": 148,
+    "child_description": "안녕! 나는 'Anas zonorhyncha'(학명: Anas zonorhyncha)이야. 제주도에서 148번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Anas%20zonorhyncha"
+  },
+  "26": {
+    "id": 26,
+    "korean_name": "Anomala albopilosa",
+    "scientific_name": "Anomala albopilosa",
+    "taxon_group": "생물",
+    "jeju_observations": 38,
+    "child_description": "안녕! 나는 'Anomala albopilosa'(학명: Anomala albopilosa)이야. 제주도에서 38번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Anomala%20albopilosa"
+  },
+  "27": {
+    "id": 27,
+    "korean_name": "Anomala quelparta",
+    "scientific_name": "Anomala quelparta",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Anomala quelparta'(학명: Anomala quelparta)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Anomala%20quelparta"
+  },
+  "28": {
+    "id": 28,
+    "korean_name": "Anoplophora chinensis",
+    "scientific_name": "Anoplophora chinensis",
+    "taxon_group": "생물",
+    "jeju_observations": 28,
+    "child_description": "안녕! 나는 'Anoplophora chinensis'(학명: Anoplophora chinensis)이야. 제주도에서 28번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Anoplophora%20chinensis"
+  },
+  "29": {
+    "id": 29,
+    "korean_name": "Anthus cervinus",
+    "scientific_name": "Anthus cervinus",
+    "taxon_group": "생물",
+    "jeju_observations": 15,
+    "child_description": "안녕! 나는 'Anthus cervinus'(학명: Anthus cervinus)이야. 제주도에서 15번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Anthus%20cervinus"
+  },
+  "30": {
+    "id": 30,
+    "korean_name": "Anthus hodgsoni",
+    "scientific_name": "Anthus hodgsoni",
+    "taxon_group": "생물",
+    "jeju_observations": 66,
+    "child_description": "안녕! 나는 'Anthus hodgsoni'(학명: Anthus hodgsoni)이야. 제주도에서 66번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Anthus%20hodgsoni"
+  },
+  "31": {
+    "id": 31,
+    "korean_name": "Anthus japonicus",
+    "scientific_name": "Anthus japonicus",
+    "taxon_group": "생물",
+    "jeju_observations": 26,
+    "child_description": "안녕! 나는 'Anthus japonicus'(학명: Anthus japonicus)이야. 제주도에서 26번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Anthus%20japonicus"
+  },
+  "32": {
+    "id": 32,
+    "korean_name": "Anthus richardi",
+    "scientific_name": "Anthus richardi",
+    "taxon_group": "생물",
+    "jeju_observations": 19,
+    "child_description": "안녕! 나는 'Anthus richardi'(학명: Anthus richardi)이야. 제주도에서 19번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Anthus%20richardi"
+  },
+  "33": {
+    "id": 33,
+    "korean_name": "Aphantopus hyperantus",
+    "scientific_name": "Aphantopus hyperantus",
+    "taxon_group": "생물",
+    "jeju_observations": 13,
+    "child_description": "안녕! 나는 'Aphantopus hyperantus'(학명: Aphantopus hyperantus)이야. 제주도에서 13번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Aphantopus%20hyperantus"
+  },
+  "34": {
+    "id": 34,
+    "korean_name": "Apis cerana",
+    "scientific_name": "Apis cerana",
+    "taxon_group": "생물",
+    "jeju_observations": 18,
+    "child_description": "안녕! 나는 'Apis cerana'(학명: Apis cerana)이야. 제주도에서 18번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Apis%20cerana"
+  },
+  "35": {
+    "id": 35,
+    "korean_name": "Apis mellifera",
+    "scientific_name": "Apis mellifera",
+    "taxon_group": "생물",
+    "jeju_observations": 26,
+    "child_description": "안녕! 나는 'Apis mellifera'(학명: Apis mellifera)이야. 제주도에서 26번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Apis%20mellifera"
+  },
+  "36": {
+    "id": 36,
+    "korean_name": "Apus pacificus",
+    "scientific_name": "Apus pacificus",
+    "taxon_group": "생물",
+    "jeju_observations": 48,
+    "child_description": "안녕! 나는 'Apus pacificus'(학명: Apus pacificus)이야. 제주도에서 48번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Apus%20pacificus"
+  },
+  "37": {
+    "id": 37,
+    "korean_name": "Aquarius elongatus",
+    "scientific_name": "Aquarius elongatus",
+    "taxon_group": "생물",
+    "jeju_observations": 15,
+    "child_description": "안녕! 나는 'Aquarius elongatus'(학명: Aquarius elongatus)이야. 제주도에서 15번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Aquarius%20elongatus"
+  },
+  "38": {
+    "id": 38,
+    "korean_name": "Arachniodes aristata",
+    "scientific_name": "Arachniodes aristata",
+    "taxon_group": "생물",
+    "jeju_observations": 19,
+    "child_description": "안녕! 나는 'Arachniodes aristata'(학명: Arachniodes aristata)이야. 제주도에서 19번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Arachniodes%20aristata"
+  },
+  "39": {
+    "id": 39,
+    "korean_name": "Arachniodes standishii",
+    "scientific_name": "Arachniodes standishii",
+    "taxon_group": "생물",
+    "jeju_observations": 24,
+    "child_description": "안녕! 나는 'Arachniodes standishii'(학명: Arachniodes standishii)이야. 제주도에서 24번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Arachniodes%20standishii"
+  },
+  "40": {
+    "id": 40,
+    "korean_name": "Ardea alba",
+    "scientific_name": "Ardea alba",
+    "taxon_group": "생물",
+    "jeju_observations": 96,
+    "child_description": "안녕! 나는 'Ardea alba'(학명: Ardea alba)이야. 제주도에서 96번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Ardea%20alba"
+  },
+  "41": {
+    "id": 41,
+    "korean_name": "Ardea cinerea",
+    "scientific_name": "Ardea cinerea",
+    "taxon_group": "생물",
+    "jeju_observations": 220,
+    "child_description": "안녕! 나는 'Ardea cinerea'(학명: Ardea cinerea)이야. 제주도에서 220번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Ardea%20cinerea"
+  },
+  "42": {
+    "id": 42,
+    "korean_name": "Ardea coromanda",
+    "scientific_name": "Ardea coromanda",
+    "taxon_group": "생물",
+    "jeju_observations": 53,
+    "child_description": "안녕! 나는 'Ardea coromanda'(학명: Ardea coromanda)이야. 제주도에서 53번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Ardea%20coromanda"
+  },
+  "43": {
+    "id": 43,
+    "korean_name": "Ardea intermedia",
+    "scientific_name": "Ardea intermedia",
+    "taxon_group": "생물",
+    "jeju_observations": 34,
+    "child_description": "안녕! 나는 'Ardea intermedia'(학명: Ardea intermedia)이야. 제주도에서 34번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Ardea%20intermedia"
+  },
+  "44": {
+    "id": 44,
+    "korean_name": "Ardeola bacchus",
+    "scientific_name": "Ardeola bacchus",
+    "taxon_group": "생물",
+    "jeju_observations": 49,
+    "child_description": "안녕! 나는 'Ardeola bacchus'(학명: Ardeola bacchus)이야. 제주도에서 49번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Ardeola%20bacchus"
+  },
+  "45": {
+    "id": 45,
+    "korean_name": "Ardisia crenata",
+    "scientific_name": "Ardisia crenata",
+    "taxon_group": "생물",
+    "jeju_observations": 21,
+    "child_description": "안녕! 나는 'Ardisia crenata'(학명: Ardisia crenata)이야. 제주도에서 21번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Ardisia%20crenata"
+  },
+  "46": {
+    "id": 46,
+    "korean_name": "Arenaria interpres",
+    "scientific_name": "Arenaria interpres",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Arenaria interpres'(학명: Arenaria interpres)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Arenaria%20interpres"
+  },
+  "47": {
+    "id": 47,
+    "korean_name": "Argiope bruennichi",
+    "scientific_name": "Argiope bruennichi",
+    "taxon_group": "생물",
+    "jeju_observations": 16,
+    "child_description": "안녕! 나는 'Argiope bruennichi'(학명: Argiope bruennichi)이야. 제주도에서 16번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Argiope%20bruennichi"
+  },
+  "48": {
+    "id": 48,
+    "korean_name": "Argiope minuta",
+    "scientific_name": "Argiope minuta",
+    "taxon_group": "생물",
+    "jeju_observations": 14,
+    "child_description": "안녕! 나는 'Argiope minuta'(학명: Argiope minuta)이야. 제주도에서 14번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Argiope%20minuta"
+  },
+  "49": {
+    "id": 49,
+    "korean_name": "Argynnis hyperbius",
+    "scientific_name": "Argynnis hyperbius",
+    "taxon_group": "생물",
+    "jeju_observations": 26,
+    "child_description": "안녕! 나는 'Argynnis hyperbius'(학명: Argynnis hyperbius)이야. 제주도에서 26번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Argynnis%20hyperbius"
+  },
+  "50": {
+    "id": 50,
+    "korean_name": "Arisaema ringens",
+    "scientific_name": "Arisaema ringens",
+    "taxon_group": "생물",
+    "jeju_observations": 36,
+    "child_description": "안녕! 나는 'Arisaema ringens'(학명: Arisaema ringens)이야. 제주도에서 36번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Arisaema%20ringens"
+  },
+  "51": {
+    "id": 51,
+    "korean_name": "Asarum sieboldii",
+    "scientific_name": "Asarum sieboldii",
+    "taxon_group": "생물",
+    "jeju_observations": 23,
+    "child_description": "안녕! 나는 'Asarum sieboldii'(학명: Asarum sieboldii)이야. 제주도에서 23번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Asarum%20sieboldii"
+  },
+  "52": {
+    "id": 52,
+    "korean_name": "Asplenium incisum",
+    "scientific_name": "Asplenium incisum",
+    "taxon_group": "생물",
+    "jeju_observations": 17,
+    "child_description": "안녕! 나는 'Asplenium incisum'(학명: Asplenium incisum)이야. 제주도에서 17번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Asplenium%20incisum"
+  },
+  "53": {
+    "id": 53,
+    "korean_name": "Aythya ferina",
+    "scientific_name": "Aythya ferina",
+    "taxon_group": "생물",
+    "jeju_observations": 29,
+    "child_description": "안녕! 나는 'Aythya ferina'(학명: Aythya ferina)이야. 제주도에서 29번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Aythya%20ferina"
+  },
+  "54": {
+    "id": 54,
+    "korean_name": "Aythya fuligula",
+    "scientific_name": "Aythya fuligula",
+    "taxon_group": "생물",
+    "jeju_observations": 33,
+    "child_description": "안녕! 나는 'Aythya fuligula'(학명: Aythya fuligula)이야. 제주도에서 33번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Aythya%20fuligula"
+  },
+  "55": {
+    "id": 55,
+    "korean_name": "Barnardia japonica",
+    "scientific_name": "Barnardia japonica",
+    "taxon_group": "생물",
+    "jeju_observations": 18,
+    "child_description": "안녕! 나는 'Barnardia japonica'(학명: Barnardia japonica)이야. 제주도에서 18번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Barnardia%20japonica"
+  },
+  "56": {
+    "id": 56,
+    "korean_name": "Bathygobius fuscus",
+    "scientific_name": "Bathygobius fuscus",
+    "taxon_group": "생물",
+    "jeju_observations": 16,
+    "child_description": "안녕! 나는 'Bathygobius fuscus'(학명: Bathygobius fuscus)이야. 제주도에서 16번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Bathygobius%20fuscus"
+  },
+  "57": {
+    "id": 57,
+    "korean_name": "Batocera lineolata",
+    "scientific_name": "Batocera lineolata",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Batocera lineolata'(학명: Batocera lineolata)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Batocera%20lineolata"
+  },
+  "58": {
+    "id": 58,
+    "korean_name": "Bombina orientalis",
+    "scientific_name": "Bombina orientalis",
+    "taxon_group": "생물",
+    "jeju_observations": 30,
+    "child_description": "안녕! 나는 'Bombina orientalis'(학명: Bombina orientalis)이야. 제주도에서 30번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Bombina%20orientalis"
+  },
+  "59": {
+    "id": 59,
+    "korean_name": "Buteo japonicus",
+    "scientific_name": "Buteo japonicus",
+    "taxon_group": "생물",
+    "jeju_observations": 70,
+    "child_description": "안녕! 나는 'Buteo japonicus'(학명: Buteo japonicus)이야. 제주도에서 70번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Buteo%20japonicus"
+  },
+  "60": {
+    "id": 60,
+    "korean_name": "Butorides atricapilla",
+    "scientific_name": "Butorides atricapilla",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Butorides atricapilla'(학명: Butorides atricapilla)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Butorides%20atricapilla"
+  },
+  "61": {
+    "id": 61,
+    "korean_name": "Calanthe discolor",
+    "scientific_name": "Calanthe discolor",
+    "taxon_group": "생물",
+    "jeju_observations": 27,
+    "child_description": "안녕! 나는 'Calanthe discolor'(학명: Calanthe discolor)이야. 제주도에서 27번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Calanthe%20discolor"
+  },
+  "62": {
+    "id": 62,
+    "korean_name": "Calanthe striata",
+    "scientific_name": "Calanthe striata",
+    "taxon_group": "생물",
+    "jeju_observations": 29,
+    "child_description": "안녕! 나는 'Calanthe striata'(학명: Calanthe striata)이야. 제주도에서 29번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Calanthe%20striata"
+  },
+  "63": {
+    "id": 63,
+    "korean_name": "Calidris alba",
+    "scientific_name": "Calidris alba",
+    "taxon_group": "생물",
+    "jeju_observations": 23,
+    "child_description": "안녕! 나는 'Calidris alba'(학명: Calidris alba)이야. 제주도에서 23번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Calidris%20alba"
+  },
+  "64": {
+    "id": 64,
+    "korean_name": "Calidris alpina",
+    "scientific_name": "Calidris alpina",
+    "taxon_group": "생물",
+    "jeju_observations": 46,
+    "child_description": "안녕! 나는 'Calidris alpina'(학명: Calidris alpina)이야. 제주도에서 46번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Calidris%20alpina"
+  },
+  "65": {
+    "id": 65,
+    "korean_name": "Calidris ruficollis",
+    "scientific_name": "Calidris ruficollis",
+    "taxon_group": "생물",
+    "jeju_observations": 53,
+    "child_description": "안녕! 나는 'Calidris ruficollis'(학명: Calidris ruficollis)이야. 제주도에서 53번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Calidris%20ruficollis"
+  },
+  "66": {
+    "id": 66,
+    "korean_name": "Calonectris leucomelas",
+    "scientific_name": "Calonectris leucomelas",
+    "taxon_group": "생물",
+    "jeju_observations": 52,
+    "child_description": "안녕! 나는 'Calonectris leucomelas'(학명: Calonectris leucomelas)이야. 제주도에서 52번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Calonectris%20leucomelas"
+  },
+  "67": {
+    "id": 67,
+    "korean_name": "Camellia japonica",
+    "scientific_name": "Camellia japonica",
+    "taxon_group": "생물",
+    "jeju_observations": 16,
+    "child_description": "안녕! 나는 'Camellia japonica'(학명: Camellia japonica)이야. 제주도에서 16번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Camellia%20japonica"
+  },
+  "68": {
+    "id": 68,
+    "korean_name": "Camponotus japonicus",
+    "scientific_name": "Camponotus japonicus",
+    "taxon_group": "생물",
+    "jeju_observations": 14,
+    "child_description": "안녕! 나는 'Camponotus japonicus'(학명: Camponotus japonicus)이야. 제주도에서 14번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Camponotus%20japonicus"
+  },
+  "69": {
+    "id": 69,
+    "korean_name": "Camponotus vitiosus",
+    "scientific_name": "Camponotus vitiosus",
+    "taxon_group": "생물",
+    "jeju_observations": 13,
+    "child_description": "안녕! 나는 'Camponotus vitiosus'(학명: Camponotus vitiosus)이야. 제주도에서 13번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Camponotus%20vitiosus"
+  },
+  "70": {
+    "id": 70,
+    "korean_name": "Cantao ocellatus",
+    "scientific_name": "Cantao ocellatus",
+    "taxon_group": "생물",
+    "jeju_observations": 14,
+    "child_description": "안녕! 나는 'Cantao ocellatus'(학명: Cantao ocellatus)이야. 제주도에서 14번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Cantao%20ocellatus"
+  },
+  "71": {
+    "id": 71,
+    "korean_name": "Capreolus pygargus",
+    "scientific_name": "Capreolus pygargus",
+    "taxon_group": "생물",
+    "jeju_observations": 122,
+    "child_description": "안녕! 나는 'Capreolus pygargus'(학명: Capreolus pygargus)이야. 제주도에서 122번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Capreolus%20pygargus"
+  },
+  "72": {
+    "id": 72,
+    "korean_name": "Carabus fiduciarius saishutoicus",
+    "scientific_name": "Carabus fiduciarius saishutoicus",
+    "taxon_group": "생물",
+    "jeju_observations": 29,
+    "child_description": "안녕! 나는 'Carabus fiduciarius saishutoicus'(학명: Carabus fiduciarius saishutoicus)이야. 제주도에서 29번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Carabus%20fiduciarius%20saishutoicus"
+  },
+  "73": {
+    "id": 73,
+    "korean_name": "Carabus jankowskii",
+    "scientific_name": "Carabus jankowskii",
+    "taxon_group": "생물",
+    "jeju_observations": 12,
+    "child_description": "안녕! 나는 'Carabus jankowskii'(학명: Carabus jankowskii)이야. 제주도에서 12번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Carabus%20jankowskii"
+  },
+  "74": {
+    "id": 74,
+    "korean_name": "Carabus smaragdinus",
+    "scientific_name": "Carabus smaragdinus",
+    "taxon_group": "생물",
+    "jeju_observations": 12,
+    "child_description": "안녕! 나는 'Carabus smaragdinus'(학명: Carabus smaragdinus)이야. 제주도에서 12번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Carabus%20smaragdinus"
+  },
+  "75": {
+    "id": 75,
+    "korean_name": "Cecropis daurica",
+    "scientific_name": "Cecropis daurica",
+    "taxon_group": "생물",
+    "jeju_observations": 17,
+    "child_description": "안녕! 나는 'Cecropis daurica'(학명: Cecropis daurica)이야. 제주도에서 17번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Cecropis%20daurica"
+  },
+  "76": {
+    "id": 76,
+    "korean_name": "Celastrina argiolus",
+    "scientific_name": "Celastrina argiolus",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Celastrina argiolus'(학명: Celastrina argiolus)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Celastrina%20argiolus"
+  },
+  "77": {
+    "id": 77,
+    "korean_name": "Ceriagrion melanurum",
+    "scientific_name": "Ceriagrion melanurum",
+    "taxon_group": "생물",
+    "jeju_observations": 14,
+    "child_description": "안녕! 나는 'Ceriagrion melanurum'(학명: Ceriagrion melanurum)이야. 제주도에서 14번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Ceriagrion%20melanurum"
+  },
+  "78": {
+    "id": 78,
+    "korean_name": "Chizuella bonneti",
+    "scientific_name": "Chizuella bonneti",
+    "taxon_group": "생물",
+    "jeju_observations": 13,
+    "child_description": "안녕! 나는 'Chizuella bonneti'(학명: Chizuella bonneti)이야. 제주도에서 13번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Chizuella%20bonneti"
+  },
+  "79": {
+    "id": 79,
+    "korean_name": "Chlidonias hybrida",
+    "scientific_name": "Chlidonias hybrida",
+    "taxon_group": "생물",
+    "jeju_observations": 25,
+    "child_description": "안녕! 나는 'Chlidonias hybrida'(학명: Chlidonias hybrida)이야. 제주도에서 25번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Chlidonias%20hybrida"
+  },
+  "80": {
+    "id": 80,
+    "korean_name": "Chloris sinica",
+    "scientific_name": "Chloris sinica",
+    "taxon_group": "생물",
+    "jeju_observations": 152,
+    "child_description": "안녕! 나는 'Chloris sinica'(학명: Chloris sinica)이야. 제주도에서 152번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Chloris%20sinica"
+  },
+  "81": {
+    "id": 81,
+    "korean_name": "Chorthippus hallasanus",
+    "scientific_name": "Chorthippus hallasanus",
+    "taxon_group": "생물",
+    "jeju_observations": 27,
+    "child_description": "안녕! 나는 'Chorthippus hallasanus'(학명: Chorthippus hallasanus)이야. 제주도에서 27번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Chorthippus%20hallasanus"
+  },
+  "82": {
+    "id": 82,
+    "korean_name": "Chroicocephalus ridibundus",
+    "scientific_name": "Chroicocephalus ridibundus",
+    "taxon_group": "생물",
+    "jeju_observations": 17,
+    "child_description": "안녕! 나는 'Chroicocephalus ridibundus'(학명: Chroicocephalus ridibundus)이야. 제주도에서 17번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Chroicocephalus%20ridibundus"
+  },
+  "83": {
+    "id": 83,
+    "korean_name": "Chromis notata",
+    "scientific_name": "Chromis notata",
+    "taxon_group": "생물",
+    "jeju_observations": 13,
+    "child_description": "안녕! 나는 'Chromis notata'(학명: Chromis notata)이야. 제주도에서 13번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Chromis%20notata"
+  },
+  "84": {
+    "id": 84,
+    "korean_name": "Cirsium japonicum",
+    "scientific_name": "Cirsium japonicum",
+    "taxon_group": "생물",
+    "jeju_observations": 18,
+    "child_description": "안녕! 나는 'Cirsium japonicum'(학명: Cirsium japonicum)이야. 제주도에서 18번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Cirsium%20japonicum"
+  },
+  "85": {
+    "id": 85,
+    "korean_name": "Cisticola juncidis",
+    "scientific_name": "Cisticola juncidis",
+    "taxon_group": "생물",
+    "jeju_observations": 33,
+    "child_description": "안녕! 나는 'Cisticola juncidis'(학명: Cisticola juncidis)이야. 제주도에서 33번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Cisticola%20juncidis"
+  },
+  "86": {
+    "id": 86,
+    "korean_name": "Clathrus bicolumnatus",
+    "scientific_name": "Clathrus bicolumnatus",
+    "taxon_group": "생물",
+    "jeju_observations": 13,
+    "child_description": "안녕! 나는 'Clathrus bicolumnatus'(학명: Clathrus bicolumnatus)이야. 제주도에서 13번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Clathrus%20bicolumnatus"
+  },
+  "87": {
+    "id": 87,
+    "korean_name": "Clerodendrum trichotomum",
+    "scientific_name": "Clerodendrum trichotomum",
+    "taxon_group": "생물",
+    "jeju_observations": 12,
+    "child_description": "안녕! 나는 'Clerodendrum trichotomum'(학명: Clerodendrum trichotomum)이야. 제주도에서 12번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Clerodendrum%20trichotomum"
+  },
+  "88": {
+    "id": 88,
+    "korean_name": "Coccinella septempunctata",
+    "scientific_name": "Coccinella septempunctata",
+    "taxon_group": "생물",
+    "jeju_observations": 42,
+    "child_description": "안녕! 나는 'Coccinella septempunctata'(학명: Coccinella septempunctata)이야. 제주도에서 42번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Coccinella%20septempunctata"
+  },
+  "89": {
+    "id": 89,
+    "korean_name": "Coccothraustes coccothraustes",
+    "scientific_name": "Coccothraustes coccothraustes",
+    "taxon_group": "생물",
+    "jeju_observations": 18,
+    "child_description": "안녕! 나는 'Coccothraustes coccothraustes'(학명: Coccothraustes coccothraustes)이야. 제주도에서 18번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Coccothraustes%20coccothraustes"
+  },
+  "90": {
+    "id": 90,
+    "korean_name": "Columba livia domestica",
+    "scientific_name": "Columba livia domestica",
+    "taxon_group": "생물",
+    "jeju_observations": 47,
+    "child_description": "안녕! 나는 'Columba livia domestica'(학명: Columba livia domestica)이야. 제주도에서 47번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Columba%20livia%20domestica"
+  },
+  "91": {
+    "id": 91,
+    "korean_name": "Commelina communis",
+    "scientific_name": "Commelina communis",
+    "taxon_group": "생물",
+    "jeju_observations": 29,
+    "child_description": "안녕! 나는 'Commelina communis'(학명: Commelina communis)이야. 제주도에서 29번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Commelina%20communis"
+  },
+  "92": {
+    "id": 92,
+    "korean_name": "Copris tripartitus",
+    "scientific_name": "Copris tripartitus",
+    "taxon_group": "생물",
+    "jeju_observations": 22,
+    "child_description": "안녕! 나는 'Copris tripartitus'(학명: Copris tripartitus)이야. 제주도에서 22번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Copris%20tripartitus"
+  },
+  "93": {
+    "id": 93,
+    "korean_name": "Coreopsis lanceolata",
+    "scientific_name": "Coreopsis lanceolata",
+    "taxon_group": "생물",
+    "jeju_observations": 14,
+    "child_description": "안녕! 나는 'Coreopsis lanceolata'(학명: Coreopsis lanceolata)이야. 제주도에서 14번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Coreopsis%20lanceolata"
+  },
+  "94": {
+    "id": 94,
+    "korean_name": "Cornus kousa",
+    "scientific_name": "Cornus kousa",
+    "taxon_group": "생물",
+    "jeju_observations": 14,
+    "child_description": "안녕! 나는 'Cornus kousa'(학명: Cornus kousa)이야. 제주도에서 14번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Cornus%20kousa"
+  },
+  "95": {
+    "id": 95,
+    "korean_name": "Corvus corone",
+    "scientific_name": "Corvus corone",
+    "taxon_group": "생물",
+    "jeju_observations": 22,
+    "child_description": "안녕! 나는 'Corvus corone'(학명: Corvus corone)이야. 제주도에서 22번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Corvus%20corone"
+  },
+  "96": {
+    "id": 96,
+    "korean_name": "Corvus frugilegus",
+    "scientific_name": "Corvus frugilegus",
+    "taxon_group": "생물",
+    "jeju_observations": 35,
+    "child_description": "안녕! 나는 'Corvus frugilegus'(학명: Corvus frugilegus)이야. 제주도에서 35번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Corvus%20frugilegus"
+  },
+  "97": {
+    "id": 97,
+    "korean_name": "Corvus macrorhynchos",
+    "scientific_name": "Corvus macrorhynchos",
+    "taxon_group": "생물",
+    "jeju_observations": 231,
+    "child_description": "안녕! 나는 'Corvus macrorhynchos'(학명: Corvus macrorhynchos)이야. 제주도에서 231번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Corvus%20macrorhynchos"
+  },
+  "98": {
+    "id": 98,
+    "korean_name": "Corydalis incisa",
+    "scientific_name": "Corydalis incisa",
+    "taxon_group": "생물",
+    "jeju_observations": 17,
+    "child_description": "안녕! 나는 'Corydalis incisa'(학명: Corydalis incisa)이야. 제주도에서 17번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Corydalis%20incisa"
+  },
+  "99": {
+    "id": 99,
+    "korean_name": "Crinum asiaticum",
+    "scientific_name": "Crinum asiaticum",
+    "taxon_group": "생물",
+    "jeju_observations": 15,
+    "child_description": "안녕! 나는 'Crinum asiaticum'(학명: Crinum asiaticum)이야. 제주도에서 15번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Crinum%20asiaticum"
+  },
+  "100": {
+    "id": 100,
+    "korean_name": "Crocothemis servilia",
+    "scientific_name": "Crocothemis servilia",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Crocothemis servilia'(학명: Crocothemis servilia)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Crocothemis%20servilia"
+  },
+  "101": {
+    "id": 101,
+    "korean_name": "Cryptomeria japonica",
+    "scientific_name": "Cryptomeria japonica",
+    "taxon_group": "생물",
+    "jeju_observations": 40,
+    "child_description": "안녕! 나는 'Cryptomeria japonica'(학명: Cryptomeria japonica)이야. 제주도에서 40번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Cryptomeria%20japonica"
+  },
+  "102": {
+    "id": 102,
+    "korean_name": "Cuculus canorus",
+    "scientific_name": "Cuculus canorus",
+    "taxon_group": "생물",
+    "jeju_observations": 12,
+    "child_description": "안녕! 나는 'Cuculus canorus'(학명: Cuculus canorus)이야. 제주도에서 12번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Cuculus%20canorus"
+  },
+  "103": {
+    "id": 103,
+    "korean_name": "Cyanoptila cyanomelana",
+    "scientific_name": "Cyanoptila cyanomelana",
+    "taxon_group": "생물",
+    "jeju_observations": 45,
+    "child_description": "안녕! 나는 'Cyanoptila cyanomelana'(학명: Cyanoptila cyanomelana)이야. 제주도에서 45번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Cyanoptila%20cyanomelana"
+  },
+  "104": {
+    "id": 104,
+    "korean_name": "Cygnus olor",
+    "scientific_name": "Cygnus olor",
+    "taxon_group": "생물",
+    "jeju_observations": 32,
+    "child_description": "안녕! 나는 'Cygnus olor'(학명: Cygnus olor)이야. 제주도에서 32번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Cygnus%20olor"
+  },
+  "105": {
+    "id": 105,
+    "korean_name": "Cyrtomium devexiscapulae",
+    "scientific_name": "Cyrtomium devexiscapulae",
+    "taxon_group": "생물",
+    "jeju_observations": 15,
+    "child_description": "안녕! 나는 'Cyrtomium devexiscapulae'(학명: Cyrtomium devexiscapulae)이야. 제주도에서 15번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Cyrtomium%20devexiscapulae"
+  },
+  "106": {
+    "id": 106,
+    "korean_name": "Cyrtomium falcatum",
+    "scientific_name": "Cyrtomium falcatum",
+    "taxon_group": "생물",
+    "jeju_observations": 44,
+    "child_description": "안녕! 나는 'Cyrtomium falcatum'(학명: Cyrtomium falcatum)이야. 제주도에서 44번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Cyrtomium%20falcatum"
+  },
+  "107": {
+    "id": 107,
+    "korean_name": "Cyrtomium fortunei",
+    "scientific_name": "Cyrtomium fortunei",
+    "taxon_group": "생물",
+    "jeju_observations": 27,
+    "child_description": "안녕! 나는 'Cyrtomium fortunei'(학명: Cyrtomium fortunei)이야. 제주도에서 27번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Cyrtomium%20fortunei"
+  },
+  "108": {
+    "id": 108,
+    "korean_name": "Daphniphyllum macropodum",
+    "scientific_name": "Daphniphyllum macropodum",
+    "taxon_group": "생물",
+    "jeju_observations": 31,
+    "child_description": "안녕! 나는 'Daphniphyllum macropodum'(학명: Daphniphyllum macropodum)이야. 제주도에서 31번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Daphniphyllum%20macropodum"
+  },
+  "109": {
+    "id": 109,
+    "korean_name": "Dendrocopos leucotos",
+    "scientific_name": "Dendrocopos leucotos",
+    "taxon_group": "생물",
+    "jeju_observations": 50,
+    "child_description": "안녕! 나는 'Dendrocopos leucotos'(학명: Dendrocopos leucotos)이야. 제주도에서 50번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Dendrocopos%20leucotos"
+  },
+  "110": {
+    "id": 110,
+    "korean_name": "Dendrocopos leucotos quelpartensis",
+    "scientific_name": "Dendrocopos leucotos quelpartensis",
+    "taxon_group": "생물",
+    "jeju_observations": 22,
+    "child_description": "안녕! 나는 'Dendrocopos leucotos quelpartensis'(학명: Dendrocopos leucotos quelpartensis)이야. 제주도에서 22번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Dendrocopos%20leucotos%20quelpartensis"
+  },
+  "111": {
+    "id": 111,
+    "korean_name": "Dicrurus leucophaeus",
+    "scientific_name": "Dicrurus leucophaeus",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Dicrurus leucophaeus'(학명: Dicrurus leucophaeus)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Dicrurus%20leucophaeus"
+  },
+  "112": {
+    "id": 112,
+    "korean_name": "Dryophytes japonicus",
+    "scientific_name": "Dryophytes japonicus",
+    "taxon_group": "생물",
+    "jeju_observations": 25,
+    "child_description": "안녕! 나는 'Dryophytes japonicus'(학명: Dryophytes japonicus)이야. 제주도에서 25번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Dryophytes%20japonicus"
+  },
+  "113": {
+    "id": 113,
+    "korean_name": "Dryopteris crassirhizoma",
+    "scientific_name": "Dryopteris crassirhizoma",
+    "taxon_group": "생물",
+    "jeju_observations": 13,
+    "child_description": "안녕! 나는 'Dryopteris crassirhizoma'(학명: Dryopteris crassirhizoma)이야. 제주도에서 13번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Dryopteris%20crassirhizoma"
+  },
+  "114": {
+    "id": 114,
+    "korean_name": "Duolandrevus ivani",
+    "scientific_name": "Duolandrevus ivani",
+    "taxon_group": "생물",
+    "jeju_observations": 12,
+    "child_description": "안녕! 나는 'Duolandrevus ivani'(학명: Duolandrevus ivani)이야. 제주도에서 12번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Duolandrevus%20ivani"
+  },
+  "115": {
+    "id": 115,
+    "korean_name": "Echinolittorina radiata",
+    "scientific_name": "Echinolittorina radiata",
+    "taxon_group": "생물",
+    "jeju_observations": 13,
+    "child_description": "안녕! 나는 'Echinolittorina radiata'(학명: Echinolittorina radiata)이야. 제주도에서 13번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Echinolittorina%20radiata"
+  },
+  "116": {
+    "id": 116,
+    "korean_name": "Egretta eulophotes",
+    "scientific_name": "Egretta eulophotes",
+    "taxon_group": "생물",
+    "jeju_observations": 18,
+    "child_description": "안녕! 나는 'Egretta eulophotes'(학명: Egretta eulophotes)이야. 제주도에서 18번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Egretta%20eulophotes"
+  },
+  "117": {
+    "id": 117,
+    "korean_name": "Egretta garzetta",
+    "scientific_name": "Egretta garzetta",
+    "taxon_group": "생물",
+    "jeju_observations": 64,
+    "child_description": "안녕! 나는 'Egretta garzetta'(학명: Egretta garzetta)이야. 제주도에서 64번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Egretta%20garzetta"
+  },
+  "118": {
+    "id": 118,
+    "korean_name": "Egretta sacra",
+    "scientific_name": "Egretta sacra",
+    "taxon_group": "생물",
+    "jeju_observations": 103,
+    "child_description": "안녕! 나는 'Egretta sacra'(학명: Egretta sacra)이야. 제주도에서 103번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Egretta%20sacra"
+  },
+  "119": {
+    "id": 119,
+    "korean_name": "Elaphe dione",
+    "scientific_name": "Elaphe dione",
+    "taxon_group": "생물",
+    "jeju_observations": 25,
+    "child_description": "안녕! 나는 'Elaphe dione'(학명: Elaphe dione)이야. 제주도에서 25번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Elaphe%20dione"
+  },
+  "120": {
+    "id": 120,
+    "korean_name": "Emberiza cioides",
+    "scientific_name": "Emberiza cioides",
+    "taxon_group": "생물",
+    "jeju_observations": 50,
+    "child_description": "안녕! 나는 'Emberiza cioides'(학명: Emberiza cioides)이야. 제주도에서 50번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Emberiza%20cioides"
+  },
+  "121": {
+    "id": 121,
+    "korean_name": "Eophona migratoria",
+    "scientific_name": "Eophona migratoria",
+    "taxon_group": "생물",
+    "jeju_observations": 68,
+    "child_description": "안녕! 나는 'Eophona migratoria'(학명: Eophona migratoria)이야. 제주도에서 68번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Eophona%20migratoria"
+  },
+  "122": {
+    "id": 122,
+    "korean_name": "Episyrphus balteatus",
+    "scientific_name": "Episyrphus balteatus",
+    "taxon_group": "생물",
+    "jeju_observations": 12,
+    "child_description": "안녕! 나는 'Episyrphus balteatus'(학명: Episyrphus balteatus)이야. 제주도에서 12번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Episyrphus%20balteatus"
+  },
+  "123": {
+    "id": 123,
+    "korean_name": "Eranthis byunsanensis",
+    "scientific_name": "Eranthis byunsanensis",
+    "taxon_group": "생물",
+    "jeju_observations": 17,
+    "child_description": "안녕! 나는 'Eranthis byunsanensis'(학명: Eranthis byunsanensis)이야. 제주도에서 17번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Eranthis%20byunsanensis"
+  },
+  "124": {
+    "id": 124,
+    "korean_name": "Eurema laeta",
+    "scientific_name": "Eurema laeta",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Eurema laeta'(학명: Eurema laeta)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Eurema%20laeta"
+  },
+  "125": {
+    "id": 125,
+    "korean_name": "Eurema mandarina",
+    "scientific_name": "Eurema mandarina",
+    "taxon_group": "생물",
+    "jeju_observations": 21,
+    "child_description": "안녕! 나는 'Eurema mandarina'(학명: Eurema mandarina)이야. 제주도에서 21번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Eurema%20mandarina"
+  },
+  "126": {
+    "id": 126,
+    "korean_name": "Eurystomus orientalis",
+    "scientific_name": "Eurystomus orientalis",
+    "taxon_group": "생물",
+    "jeju_observations": 20,
+    "child_description": "안녕! 나는 'Eurystomus orientalis'(학명: Eurystomus orientalis)이야. 제주도에서 20번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Eurystomus%20orientalis"
+  },
+  "127": {
+    "id": 127,
+    "korean_name": "Everes argiades",
+    "scientific_name": "Everes argiades",
+    "taxon_group": "생물",
+    "jeju_observations": 18,
+    "child_description": "안녕! 나는 'Everes argiades'(학명: Everes argiades)이야. 제주도에서 18번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Everes%20argiades"
+  },
+  "128": {
+    "id": 128,
+    "korean_name": "Exomala orientalis",
+    "scientific_name": "Exomala orientalis",
+    "taxon_group": "생물",
+    "jeju_observations": 14,
+    "child_description": "안녕! 나는 'Exomala orientalis'(학명: Exomala orientalis)이야. 제주도에서 14번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Exomala%20orientalis"
+  },
+  "129": {
+    "id": 129,
+    "korean_name": "Falco peregrinus",
+    "scientific_name": "Falco peregrinus",
+    "taxon_group": "생물",
+    "jeju_observations": 120,
+    "child_description": "안녕! 나는 'Falco peregrinus'(학명: Falco peregrinus)이야. 제주도에서 120번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Falco%20peregrinus"
+  },
+  "130": {
+    "id": 130,
+    "korean_name": "Falco subbuteo",
+    "scientific_name": "Falco subbuteo",
+    "taxon_group": "생물",
+    "jeju_observations": 18,
+    "child_description": "안녕! 나는 'Falco subbuteo'(학명: Falco subbuteo)이야. 제주도에서 18번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Falco%20subbuteo"
+  },
+  "131": {
+    "id": 131,
+    "korean_name": "Falco tinnunculus",
+    "scientific_name": "Falco tinnunculus",
+    "taxon_group": "생물",
+    "jeju_observations": 34,
+    "child_description": "안녕! 나는 'Falco tinnunculus'(학명: Falco tinnunculus)이야. 제주도에서 34번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Falco%20tinnunculus"
+  },
+  "132": {
+    "id": 132,
+    "korean_name": "Farfugium japonicum",
+    "scientific_name": "Farfugium japonicum",
+    "taxon_group": "생물",
+    "jeju_observations": 33,
+    "child_description": "안녕! 나는 'Farfugium japonicum'(학명: Farfugium japonicum)이야. 제주도에서 33번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Farfugium%20japonicum"
+  },
+  "133": {
+    "id": 133,
+    "korean_name": "Fatsia japonica",
+    "scientific_name": "Fatsia japonica",
+    "taxon_group": "생물",
+    "jeju_observations": 22,
+    "child_description": "안녕! 나는 'Fatsia japonica'(학명: Fatsia japonica)이야. 제주도에서 22번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Fatsia%20japonica"
+  },
+  "134": {
+    "id": 134,
+    "korean_name": "Felis catus",
+    "scientific_name": "Felis catus",
+    "taxon_group": "생물",
+    "jeju_observations": 65,
+    "child_description": "안녕! 나는 'Felis catus'(학명: Felis catus)이야. 제주도에서 65번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Felis%20catus"
+  },
+  "135": {
+    "id": 135,
+    "korean_name": "Ficedula narcissina",
+    "scientific_name": "Ficedula narcissina",
+    "taxon_group": "생물",
+    "jeju_observations": 65,
+    "child_description": "안녕! 나는 'Ficedula narcissina'(학명: Ficedula narcissina)이야. 제주도에서 65번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Ficedula%20narcissina"
+  },
+  "136": {
+    "id": 136,
+    "korean_name": "Ficedula zanthopygia",
+    "scientific_name": "Ficedula zanthopygia",
+    "taxon_group": "생물",
+    "jeju_observations": 62,
+    "child_description": "안녕! 나는 'Ficedula zanthopygia'(학명: Ficedula zanthopygia)이야. 제주도에서 62번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Ficedula%20zanthopygia"
+  },
+  "137": {
+    "id": 137,
+    "korean_name": "Fringilla montifringilla",
+    "scientific_name": "Fringilla montifringilla",
+    "taxon_group": "생물",
+    "jeju_observations": 60,
+    "child_description": "안녕! 나는 'Fringilla montifringilla'(학명: Fringilla montifringilla)이야. 제주도에서 60번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Fringilla%20montifringilla"
+  },
+  "138": {
+    "id": 138,
+    "korean_name": "Fulica atra",
+    "scientific_name": "Fulica atra",
+    "taxon_group": "생물",
+    "jeju_observations": 52,
+    "child_description": "안녕! 나는 'Fulica atra'(학명: Fulica atra)이야. 제주도에서 52번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Fulica%20atra"
+  },
+  "139": {
+    "id": 139,
+    "korean_name": "Gallinago gallinago",
+    "scientific_name": "Gallinago gallinago",
+    "taxon_group": "생물",
+    "jeju_observations": 17,
+    "child_description": "안녕! 나는 'Gallinago gallinago'(학명: Gallinago gallinago)이야. 제주도에서 17번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Gallinago%20gallinago"
+  },
+  "140": {
+    "id": 140,
+    "korean_name": "Gallinula chloropus",
+    "scientific_name": "Gallinula chloropus",
+    "taxon_group": "생물",
+    "jeju_observations": 16,
+    "child_description": "안녕! 나는 'Gallinula chloropus'(학명: Gallinula chloropus)이야. 제주도에서 16번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Gallinula%20chloropus"
+  },
+  "141": {
+    "id": 141,
+    "korean_name": "Gametis jucunda",
+    "scientific_name": "Gametis jucunda",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Gametis jucunda'(학명: Gametis jucunda)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Gametis%20jucunda"
+  },
+  "142": {
+    "id": 142,
+    "korean_name": "Gampsocleis ussuriensis",
+    "scientific_name": "Gampsocleis ussuriensis",
+    "taxon_group": "생물",
+    "jeju_observations": 14,
+    "child_description": "안녕! 나는 'Gampsocleis ussuriensis'(학명: Gampsocleis ussuriensis)이야. 제주도에서 14번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Gampsocleis%20ussuriensis"
+  },
+  "143": {
+    "id": 143,
+    "korean_name": "Garrulus glandarius",
+    "scientific_name": "Garrulus glandarius",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Garrulus glandarius'(학명: Garrulus glandarius)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Garrulus%20glandarius"
+  },
+  "144": {
+    "id": 144,
+    "korean_name": "Gavia arctica",
+    "scientific_name": "Gavia arctica",
+    "taxon_group": "생물",
+    "jeju_observations": 20,
+    "child_description": "안녕! 나는 'Gavia arctica'(학명: Gavia arctica)이야. 제주도에서 20번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Gavia%20arctica"
+  },
+  "145": {
+    "id": 145,
+    "korean_name": "Gavia pacifica",
+    "scientific_name": "Gavia pacifica",
+    "taxon_group": "생물",
+    "jeju_observations": 12,
+    "child_description": "안녕! 나는 'Gavia pacifica'(학명: Gavia pacifica)이야. 제주도에서 12번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Gavia%20pacifica"
+  },
+  "146": {
+    "id": 146,
+    "korean_name": "Geisha distinctissima",
+    "scientific_name": "Geisha distinctissima",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Geisha distinctissima'(학명: Geisha distinctissima)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Geisha%20distinctissima"
+  },
+  "147": {
+    "id": 147,
+    "korean_name": "Glareola maldivarum",
+    "scientific_name": "Glareola maldivarum",
+    "taxon_group": "생물",
+    "jeju_observations": 19,
+    "child_description": "안녕! 나는 'Glareola maldivarum'(학명: Glareola maldivarum)이야. 제주도에서 19번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Glareola%20maldivarum"
+  },
+  "148": {
+    "id": 148,
+    "korean_name": "Gloydius ussuriensis",
+    "scientific_name": "Gloydius ussuriensis",
+    "taxon_group": "생물",
+    "jeju_observations": 114,
+    "child_description": "안녕! 나는 'Gloydius ussuriensis'(학명: Gloydius ussuriensis)이야. 제주도에서 114번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Gloydius%20ussuriensis"
+  },
+  "149": {
+    "id": 149,
+    "korean_name": "Goniistius zonatus",
+    "scientific_name": "Goniistius zonatus",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Goniistius zonatus'(학명: Goniistius zonatus)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Goniistius%20zonatus"
+  },
+  "150": {
+    "id": 150,
+    "korean_name": "Graphium sarpedon",
+    "scientific_name": "Graphium sarpedon",
+    "taxon_group": "생물",
+    "jeju_observations": 50,
+    "child_description": "안녕! 나는 'Graphium sarpedon'(학명: Graphium sarpedon)이야. 제주도에서 50번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Graphium%20sarpedon"
+  },
+  "151": {
+    "id": 151,
+    "korean_name": "Graptopsaltria nigrofuscata",
+    "scientific_name": "Graptopsaltria nigrofuscata",
+    "taxon_group": "생물",
+    "jeju_observations": 18,
+    "child_description": "안녕! 나는 'Graptopsaltria nigrofuscata'(학명: Graptopsaltria nigrofuscata)이야. 제주도에서 18번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Graptopsaltria%20nigrofuscata"
+  },
+  "152": {
+    "id": 152,
+    "korean_name": "Gryllotalpa orientalis",
+    "scientific_name": "Gryllotalpa orientalis",
+    "taxon_group": "생물",
+    "jeju_observations": 15,
+    "child_description": "안녕! 나는 'Gryllotalpa orientalis'(학명: Gryllotalpa orientalis)이야. 제주도에서 15번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Gryllotalpa%20orientalis"
+  },
+  "153": {
+    "id": 153,
+    "korean_name": "Harmonia axyridis",
+    "scientific_name": "Harmonia axyridis",
+    "taxon_group": "생물",
+    "jeju_observations": 21,
+    "child_description": "안녕! 나는 'Harmonia axyridis'(학명: Harmonia axyridis)이야. 제주도에서 21번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Harmonia%20axyridis"
+  },
+  "154": {
+    "id": 154,
+    "korean_name": "Hebius vibakari",
+    "scientific_name": "Hebius vibakari",
+    "taxon_group": "생물",
+    "jeju_observations": 47,
+    "child_description": "안녕! 나는 'Hebius vibakari'(학명: Hebius vibakari)이야. 제주도에서 47번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Hebius%20vibakari"
+  },
+  "155": {
+    "id": 155,
+    "korean_name": "Hedera rhombea",
+    "scientific_name": "Hedera rhombea",
+    "taxon_group": "생물",
+    "jeju_observations": 53,
+    "child_description": "안녕! 나는 'Hedera rhombea'(학명: Hedera rhombea)이야. 제주도에서 53번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Hedera%20rhombea"
+  },
+  "156": {
+    "id": 156,
+    "korean_name": "Helophilus eristaloidea",
+    "scientific_name": "Helophilus eristaloidea",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Helophilus eristaloidea'(학명: Helophilus eristaloidea)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Helophilus%20eristaloidea"
+  },
+  "157": {
+    "id": 157,
+    "korean_name": "Hierodula patellifera",
+    "scientific_name": "Hierodula patellifera",
+    "taxon_group": "생물",
+    "jeju_observations": 23,
+    "child_description": "안녕! 나는 'Hierodula patellifera'(학명: Hierodula patellifera)이야. 제주도에서 23번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Hierodula%20patellifera"
+  },
+  "158": {
+    "id": 158,
+    "korean_name": "Himantopus himantopus",
+    "scientific_name": "Himantopus himantopus",
+    "taxon_group": "생물",
+    "jeju_observations": 52,
+    "child_description": "안녕! 나는 'Himantopus himantopus'(학명: Himantopus himantopus)이야. 제주도에서 52번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Himantopus%20himantopus"
+  },
+  "159": {
+    "id": 159,
+    "korean_name": "Hirundapus caudacutus",
+    "scientific_name": "Hirundapus caudacutus",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Hirundapus caudacutus'(학명: Hirundapus caudacutus)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Hirundapus%20caudacutus"
+  },
+  "160": {
+    "id": 160,
+    "korean_name": "Hirundo rustica",
+    "scientific_name": "Hirundo rustica",
+    "taxon_group": "생물",
+    "jeju_observations": 189,
+    "child_description": "안녕! 나는 'Hirundo rustica'(학명: Hirundo rustica)이야. 제주도에서 189번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Hirundo%20rustica"
+  },
+  "161": {
+    "id": 161,
+    "korean_name": "Horornis canturians",
+    "scientific_name": "Horornis canturians",
+    "taxon_group": "생물",
+    "jeju_observations": 16,
+    "child_description": "안녕! 나는 'Horornis canturians'(학명: Horornis canturians)이야. 제주도에서 16번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Horornis%20canturians"
+  },
+  "162": {
+    "id": 162,
+    "korean_name": "Horornis diphone",
+    "scientific_name": "Horornis diphone",
+    "taxon_group": "생물",
+    "jeju_observations": 51,
+    "child_description": "안녕! 나는 'Horornis diphone'(학명: Horornis diphone)이야. 제주도에서 51번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Horornis%20diphone"
+  },
+  "163": {
+    "id": 163,
+    "korean_name": "Humulus scandens",
+    "scientific_name": "Humulus scandens",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Humulus scandens'(학명: Humulus scandens)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Humulus%20scandens"
+  },
+  "164": {
+    "id": 164,
+    "korean_name": "Hydrangea serrata",
+    "scientific_name": "Hydrangea serrata",
+    "taxon_group": "생물",
+    "jeju_observations": 49,
+    "child_description": "안녕! 나는 'Hydrangea serrata'(학명: Hydrangea serrata)이야. 제주도에서 49번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Hydrangea%20serrata"
+  },
+  "165": {
+    "id": 165,
+    "korean_name": "Hynobius quelpaertensis",
+    "scientific_name": "Hynobius quelpaertensis",
+    "taxon_group": "생물",
+    "jeju_observations": 65,
+    "child_description": "안녕! 나는 'Hynobius quelpaertensis'(학명: Hynobius quelpaertensis)이야. 제주도에서 65번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Hynobius%20quelpaertensis"
+  },
+  "166": {
+    "id": 166,
+    "korean_name": "Hypsipetes amaurotis",
+    "scientific_name": "Hypsipetes amaurotis",
+    "taxon_group": "생물",
+    "jeju_observations": 390,
+    "child_description": "안녕! 나는 'Hypsipetes amaurotis'(학명: Hypsipetes amaurotis)이야. 제주도에서 390번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Hypsipetes%20amaurotis"
+  },
+  "167": {
+    "id": 167,
+    "korean_name": "Ilex crenata",
+    "scientific_name": "Ilex crenata",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Ilex crenata'(학명: Ilex crenata)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Ilex%20crenata"
+  },
+  "168": {
+    "id": 168,
+    "korean_name": "Imperata cylindrica",
+    "scientific_name": "Imperata cylindrica",
+    "taxon_group": "생물",
+    "jeju_observations": 14,
+    "child_description": "안녕! 나는 'Imperata cylindrica'(학명: Imperata cylindrica)이야. 제주도에서 14번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Imperata%20cylindrica"
+  },
+  "169": {
+    "id": 169,
+    "korean_name": "Istiblennius edentulus",
+    "scientific_name": "Istiblennius edentulus",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Istiblennius edentulus'(학명: Istiblennius edentulus)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Istiblennius%20edentulus"
+  },
+  "170": {
+    "id": 170,
+    "korean_name": "Kaloula borealis",
+    "scientific_name": "Kaloula borealis",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Kaloula borealis'(학명: Kaloula borealis)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Kaloula%20borealis"
+  },
+  "171": {
+    "id": 171,
+    "korean_name": "Kaniska canace",
+    "scientific_name": "Kaniska canace",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Kaniska canace'(학명: Kaniska canace)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Kaniska%20canace"
+  },
+  "172": {
+    "id": 172,
+    "korean_name": "Kuwayamaea sapporensis",
+    "scientific_name": "Kuwayamaea sapporensis",
+    "taxon_group": "생물",
+    "jeju_observations": 12,
+    "child_description": "안녕! 나는 'Kuwayamaea sapporensis'(학명: Kuwayamaea sapporensis)이야. 제주도에서 12번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Kuwayamaea%20sapporensis"
+  },
+  "173": {
+    "id": 173,
+    "korean_name": "Lamium amplexicaule",
+    "scientific_name": "Lamium amplexicaule",
+    "taxon_group": "생물",
+    "jeju_observations": 27,
+    "child_description": "안녕! 나는 'Lamium amplexicaule'(학명: Lamium amplexicaule)이야. 제주도에서 27번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Lamium%20amplexicaule"
+  },
+  "174": {
+    "id": 174,
+    "korean_name": "Lanius bucephalus",
+    "scientific_name": "Lanius bucephalus",
+    "taxon_group": "생물",
+    "jeju_observations": 113,
+    "child_description": "안녕! 나는 'Lanius bucephalus'(학명: Lanius bucephalus)이야. 제주도에서 113번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Lanius%20bucephalus"
+  },
+  "175": {
+    "id": 175,
+    "korean_name": "Lanius cristatus",
+    "scientific_name": "Lanius cristatus",
+    "taxon_group": "생물",
+    "jeju_observations": 16,
+    "child_description": "안녕! 나는 'Lanius cristatus'(학명: Lanius cristatus)이야. 제주도에서 16번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Lanius%20cristatus"
+  },
+  "176": {
+    "id": 176,
+    "korean_name": "Lanius tigrinus",
+    "scientific_name": "Lanius tigrinus",
+    "taxon_group": "생물",
+    "jeju_observations": 20,
+    "child_description": "안녕! 나는 'Lanius tigrinus'(학명: Lanius tigrinus)이야. 제주도에서 20번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Lanius%20tigrinus"
+  },
+  "177": {
+    "id": 177,
+    "korean_name": "Larus canus",
+    "scientific_name": "Larus canus",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Larus canus'(학명: Larus canus)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Larus%20canus"
+  },
+  "178": {
+    "id": 178,
+    "korean_name": "Larus crassirostris",
+    "scientific_name": "Larus crassirostris",
+    "taxon_group": "생물",
+    "jeju_observations": 259,
+    "child_description": "안녕! 나는 'Larus crassirostris'(학명: Larus crassirostris)이야. 제주도에서 259번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Larus%20crassirostris"
+  },
+  "179": {
+    "id": 179,
+    "korean_name": "Larus fuscus",
+    "scientific_name": "Larus fuscus",
+    "taxon_group": "생물",
+    "jeju_observations": 14,
+    "child_description": "안녕! 나는 'Larus fuscus'(학명: Larus fuscus)이야. 제주도에서 14번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Larus%20fuscus"
+  },
+  "180": {
+    "id": 180,
+    "korean_name": "Larus fuscus taimyrensis",
+    "scientific_name": "Larus fuscus taimyrensis",
+    "taxon_group": "생물",
+    "jeju_observations": 69,
+    "child_description": "안녕! 나는 'Larus fuscus taimyrensis'(학명: Larus fuscus taimyrensis)이야. 제주도에서 69번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Larus%20fuscus%20taimyrensis"
+  },
+  "181": {
+    "id": 181,
+    "korean_name": "Larus mongolicus",
+    "scientific_name": "Larus mongolicus",
+    "taxon_group": "생물",
+    "jeju_observations": 30,
+    "child_description": "안녕! 나는 'Larus mongolicus'(학명: Larus mongolicus)이야. 제주도에서 30번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Larus%20mongolicus"
+  },
+  "182": {
+    "id": 182,
+    "korean_name": "Larus schistisagus",
+    "scientific_name": "Larus schistisagus",
+    "taxon_group": "생물",
+    "jeju_observations": 58,
+    "child_description": "안녕! 나는 'Larus schistisagus'(학명: Larus schistisagus)이야. 제주도에서 58번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Larus%20schistisagus"
+  },
+  "183": {
+    "id": 183,
+    "korean_name": "Larus vegae",
+    "scientific_name": "Larus vegae",
+    "taxon_group": "생물",
+    "jeju_observations": 182,
+    "child_description": "안녕! 나는 'Larus vegae'(학명: Larus vegae)이야. 제주도에서 182번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Larus%20vegae"
+  },
+  "184": {
+    "id": 184,
+    "korean_name": "Larvivora cyane",
+    "scientific_name": "Larvivora cyane",
+    "taxon_group": "생물",
+    "jeju_observations": 13,
+    "child_description": "안녕! 나는 'Larvivora cyane'(학명: Larvivora cyane)이야. 제주도에서 13번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Larvivora%20cyane"
+  },
+  "185": {
+    "id": 185,
+    "korean_name": "Lasius japonicus",
+    "scientific_name": "Lasius japonicus",
+    "taxon_group": "생물",
+    "jeju_observations": 16,
+    "child_description": "안녕! 나는 'Lasius japonicus'(학명: Lasius japonicus)이야. 제주도에서 16번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Lasius%20japonicus"
+  },
+  "186": {
+    "id": 186,
+    "korean_name": "Lemmaphyllum microphyllum",
+    "scientific_name": "Lemmaphyllum microphyllum",
+    "taxon_group": "생물",
+    "jeju_observations": 88,
+    "child_description": "안녕! 나는 'Lemmaphyllum microphyllum'(학명: Lemmaphyllum microphyllum)이야. 제주도에서 88번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Lemmaphyllum%20microphyllum"
+  },
+  "187": {
+    "id": 187,
+    "korean_name": "Lethe diana",
+    "scientific_name": "Lethe diana",
+    "taxon_group": "생물",
+    "jeju_observations": 41,
+    "child_description": "안녕! 나는 'Lethe diana'(학명: Lethe diana)이야. 제주도에서 41번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Lethe%20diana"
+  },
+  "188": {
+    "id": 188,
+    "korean_name": "Lilium lancifolium",
+    "scientific_name": "Lilium lancifolium",
+    "taxon_group": "생물",
+    "jeju_observations": 16,
+    "child_description": "안녕! 나는 'Lilium lancifolium'(학명: Lilium lancifolium)이야. 제주도에서 16번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Lilium%20lancifolium"
+  },
+  "189": {
+    "id": 189,
+    "korean_name": "Liolophura japonica",
+    "scientific_name": "Liolophura japonica",
+    "taxon_group": "생물",
+    "jeju_observations": 16,
+    "child_description": "안녕! 나는 'Liolophura japonica'(학명: Liolophura japonica)이야. 제주도에서 16번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Liolophura%20japonica"
+  },
+  "190": {
+    "id": 190,
+    "korean_name": "Litsea japonica",
+    "scientific_name": "Litsea japonica",
+    "taxon_group": "생물",
+    "jeju_observations": 23,
+    "child_description": "안녕! 나는 'Litsea japonica'(학명: Litsea japonica)이야. 제주도에서 23번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Litsea%20japonica"
+  },
+  "191": {
+    "id": 191,
+    "korean_name": "Lonicera japonica",
+    "scientific_name": "Lonicera japonica",
+    "taxon_group": "생물",
+    "jeju_observations": 21,
+    "child_description": "안녕! 나는 'Lonicera japonica'(학명: Lonicera japonica)이야. 제주도에서 21번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Lonicera%20japonica"
+  },
+  "192": {
+    "id": 192,
+    "korean_name": "Loxia curvirostra",
+    "scientific_name": "Loxia curvirostra",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Loxia curvirostra'(학명: Loxia curvirostra)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Loxia%20curvirostra"
+  },
+  "193": {
+    "id": 193,
+    "korean_name": "Luthrodes pandava",
+    "scientific_name": "Luthrodes pandava",
+    "taxon_group": "생물",
+    "jeju_observations": 58,
+    "child_description": "안녕! 나는 'Luthrodes pandava'(학명: Luthrodes pandava)이야. 제주도에서 58번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Luthrodes%20pandava"
+  },
+  "194": {
+    "id": 194,
+    "korean_name": "Lycaena phlaeas",
+    "scientific_name": "Lycaena phlaeas",
+    "taxon_group": "생물",
+    "jeju_observations": 31,
+    "child_description": "안녕! 나는 'Lycaena phlaeas'(학명: Lycaena phlaeas)이야. 제주도에서 31번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Lycaena%20phlaeas"
+  },
+  "195": {
+    "id": 195,
+    "korean_name": "Lygodium japonicum",
+    "scientific_name": "Lygodium japonicum",
+    "taxon_group": "생물",
+    "jeju_observations": 14,
+    "child_description": "안녕! 나는 'Lygodium japonicum'(학명: Lygodium japonicum)이야. 제주도에서 14번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Lygodium%20japonicum"
+  },
+  "196": {
+    "id": 196,
+    "korean_name": "Lysimachia mauritiana",
+    "scientific_name": "Lysimachia mauritiana",
+    "taxon_group": "생물",
+    "jeju_observations": 16,
+    "child_description": "안녕! 나는 'Lysimachia mauritiana'(학명: Lysimachia mauritiana)이야. 제주도에서 16번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Lysimachia%20mauritiana"
+  },
+  "197": {
+    "id": 197,
+    "korean_name": "Macroglossum pyrrhosticta",
+    "scientific_name": "Macroglossum pyrrhosticta",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Macroglossum pyrrhosticta'(학명: Macroglossum pyrrhosticta)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Macroglossum%20pyrrhosticta"
+  },
+  "198": {
+    "id": 198,
+    "korean_name": "Mallotus japonicus",
+    "scientific_name": "Mallotus japonicus",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Mallotus japonicus'(학명: Mallotus japonicus)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Mallotus%20japonicus"
+  },
+  "199": {
+    "id": 199,
+    "korean_name": "Mareca falcata",
+    "scientific_name": "Mareca falcata",
+    "taxon_group": "생물",
+    "jeju_observations": 47,
+    "child_description": "안녕! 나는 'Mareca falcata'(학명: Mareca falcata)이야. 제주도에서 47번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Mareca%20falcata"
+  },
+  "200": {
+    "id": 200,
+    "korean_name": "Mareca penelope",
+    "scientific_name": "Mareca penelope",
+    "taxon_group": "생물",
+    "jeju_observations": 58,
+    "child_description": "안녕! 나는 'Mareca penelope'(학명: Mareca penelope)이야. 제주도에서 58번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Mareca%20penelope"
+  },
+  "201": {
+    "id": 201,
+    "korean_name": "Mareca strepera",
+    "scientific_name": "Mareca strepera",
+    "taxon_group": "생물",
+    "jeju_observations": 44,
+    "child_description": "안녕! 나는 'Mareca strepera'(학명: Mareca strepera)이야. 제주도에서 44번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Mareca%20strepera"
+  },
+  "202": {
+    "id": 202,
+    "korean_name": "Megaulacobothrus jejuensis",
+    "scientific_name": "Megaulacobothrus jejuensis",
+    "taxon_group": "생물",
+    "jeju_observations": 47,
+    "child_description": "안녕! 나는 'Megaulacobothrus jejuensis'(학명: Megaulacobothrus jejuensis)이야. 제주도에서 47번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Megaulacobothrus%20jejuensis"
+  },
+  "203": {
+    "id": 203,
+    "korean_name": "Melia azedarach",
+    "scientific_name": "Melia azedarach",
+    "taxon_group": "생물",
+    "jeju_observations": 24,
+    "child_description": "안녕! 나는 'Melia azedarach'(학명: Melia azedarach)이야. 제주도에서 24번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Melia%20azedarach"
+  },
+  "204": {
+    "id": 204,
+    "korean_name": "Mergellus albellus",
+    "scientific_name": "Mergellus albellus",
+    "taxon_group": "생물",
+    "jeju_observations": 14,
+    "child_description": "안녕! 나는 'Mergellus albellus'(학명: Mergellus albellus)이야. 제주도에서 14번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Mergellus%20albellus"
+  },
+  "205": {
+    "id": 205,
+    "korean_name": "Mergus merganser",
+    "scientific_name": "Mergus merganser",
+    "taxon_group": "생물",
+    "jeju_observations": 25,
+    "child_description": "안녕! 나는 'Mergus merganser'(학명: Mergus merganser)이야. 제주도에서 25번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Mergus%20merganser"
+  },
+  "206": {
+    "id": 206,
+    "korean_name": "Mergus serrator",
+    "scientific_name": "Mergus serrator",
+    "taxon_group": "생물",
+    "jeju_observations": 15,
+    "child_description": "안녕! 나는 'Mergus serrator'(학명: Mergus serrator)이야. 제주도에서 15번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Mergus%20serrator"
+  },
+  "207": {
+    "id": 207,
+    "korean_name": "Microcanthus strigatus",
+    "scientific_name": "Microcanthus strigatus",
+    "taxon_group": "생물",
+    "jeju_observations": 13,
+    "child_description": "안녕! 나는 'Microcanthus strigatus'(학명: Microcanthus strigatus)이야. 제주도에서 13번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Microcanthus%20strigatus"
+  },
+  "208": {
+    "id": 208,
+    "korean_name": "Mirabilis jalapa",
+    "scientific_name": "Mirabilis jalapa",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Mirabilis jalapa'(학명: Mirabilis jalapa)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Mirabilis%20jalapa"
+  },
+  "209": {
+    "id": 209,
+    "korean_name": "Monticola solitarius",
+    "scientific_name": "Monticola solitarius",
+    "taxon_group": "생물",
+    "jeju_observations": 251,
+    "child_description": "안녕! 나는 'Monticola solitarius'(학명: Monticola solitarius)이야. 제주도에서 251번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Monticola%20solitarius"
+  },
+  "210": {
+    "id": 210,
+    "korean_name": "Monticola solitarius philippensis",
+    "scientific_name": "Monticola solitarius philippensis",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Monticola solitarius philippensis'(학명: Monticola solitarius philippensis)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Monticola%20solitarius%20philippensis"
+  },
+  "211": {
+    "id": 211,
+    "korean_name": "Motacilla alba",
+    "scientific_name": "Motacilla alba",
+    "taxon_group": "생물",
+    "jeju_observations": 81,
+    "child_description": "안녕! 나는 'Motacilla alba'(학명: Motacilla alba)이야. 제주도에서 81번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Motacilla%20alba"
+  },
+  "212": {
+    "id": 212,
+    "korean_name": "Motacilla alba lugens",
+    "scientific_name": "Motacilla alba lugens",
+    "taxon_group": "생물",
+    "jeju_observations": 13,
+    "child_description": "안녕! 나는 'Motacilla alba lugens'(학명: Motacilla alba lugens)이야. 제주도에서 13번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Motacilla%20alba%20lugens"
+  },
+  "213": {
+    "id": 213,
+    "korean_name": "Motacilla cinerea",
+    "scientific_name": "Motacilla cinerea",
+    "taxon_group": "생물",
+    "jeju_observations": 45,
+    "child_description": "안녕! 나는 'Motacilla cinerea'(학명: Motacilla cinerea)이야. 제주도에서 45번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Motacilla%20cinerea"
+  },
+  "214": {
+    "id": 214,
+    "korean_name": "Motacilla tschutschensis",
+    "scientific_name": "Motacilla tschutschensis",
+    "taxon_group": "생물",
+    "jeju_observations": 21,
+    "child_description": "안녕! 나는 'Motacilla tschutschensis'(학명: Motacilla tschutschensis)이야. 제주도에서 21번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Motacilla%20tschutschensis"
+  },
+  "215": {
+    "id": 215,
+    "korean_name": "Mugil cephalus",
+    "scientific_name": "Mugil cephalus",
+    "taxon_group": "생물",
+    "jeju_observations": 15,
+    "child_description": "안녕! 나는 'Mugil cephalus'(학명: Mugil cephalus)이야. 제주도에서 15번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Mugil%20cephalus"
+  },
+  "216": {
+    "id": 216,
+    "korean_name": "Muscicapa dauurica",
+    "scientific_name": "Muscicapa dauurica",
+    "taxon_group": "생물",
+    "jeju_observations": 145,
+    "child_description": "안녕! 나는 'Muscicapa dauurica'(학명: Muscicapa dauurica)이야. 제주도에서 145번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Muscicapa%20dauurica"
+  },
+  "217": {
+    "id": 217,
+    "korean_name": "Muscicapa griseisticta",
+    "scientific_name": "Muscicapa griseisticta",
+    "taxon_group": "생물",
+    "jeju_observations": 43,
+    "child_description": "안녕! 나는 'Muscicapa griseisticta'(학명: Muscicapa griseisticta)이야. 제주도에서 43번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Muscicapa%20griseisticta"
+  },
+  "218": {
+    "id": 218,
+    "korean_name": "Mycalesis francisca",
+    "scientific_name": "Mycalesis francisca",
+    "taxon_group": "생물",
+    "jeju_observations": 12,
+    "child_description": "안녕! 나는 'Mycalesis francisca'(학명: Mycalesis francisca)이야. 제주도에서 12번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Mycalesis%20francisca"
+  },
+  "219": {
+    "id": 219,
+    "korean_name": "Nannus troglodytes",
+    "scientific_name": "Nannus troglodytes",
+    "taxon_group": "생물",
+    "jeju_observations": 15,
+    "child_description": "안녕! 나는 'Nannus troglodytes'(학명: Nannus troglodytes)이야. 제주도에서 15번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Nannus%20troglodytes"
+  },
+  "220": {
+    "id": 220,
+    "korean_name": "Nesiohelix samarangae",
+    "scientific_name": "Nesiohelix samarangae",
+    "taxon_group": "생물",
+    "jeju_observations": 67,
+    "child_description": "안녕! 나는 'Nesiohelix samarangae'(학명: Nesiohelix samarangae)이야. 제주도에서 67번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Nesiohelix%20samarangae"
+  },
+  "221": {
+    "id": 221,
+    "korean_name": "Nippancistroger koreanus",
+    "scientific_name": "Nippancistroger koreanus",
+    "taxon_group": "생물",
+    "jeju_observations": 16,
+    "child_description": "안녕! 나는 'Nippancistroger koreanus'(학명: Nippancistroger koreanus)이야. 제주도에서 16번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Nippancistroger%20koreanus"
+  },
+  "222": {
+    "id": 222,
+    "korean_name": "Numenius madagascariensis",
+    "scientific_name": "Numenius madagascariensis",
+    "taxon_group": "생물",
+    "jeju_observations": 13,
+    "child_description": "안녕! 나는 'Numenius madagascariensis'(학명: Numenius madagascariensis)이야. 제주도에서 13번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Numenius%20madagascariensis"
+  },
+  "223": {
+    "id": 223,
+    "korean_name": "Numenius phaeopus",
+    "scientific_name": "Numenius phaeopus",
+    "taxon_group": "생물",
+    "jeju_observations": 36,
+    "child_description": "안녕! 나는 'Numenius phaeopus'(학명: Numenius phaeopus)이야. 제주도에서 36번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Numenius%20phaeopus"
+  },
+  "224": {
+    "id": 224,
+    "korean_name": "Nycticorax nycticorax",
+    "scientific_name": "Nycticorax nycticorax",
+    "taxon_group": "생물",
+    "jeju_observations": 13,
+    "child_description": "안녕! 나는 'Nycticorax nycticorax'(학명: Nycticorax nycticorax)이야. 제주도에서 13번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Nycticorax%20nycticorax"
+  },
+  "225": {
+    "id": 225,
+    "korean_name": "Oenothera laciniata",
+    "scientific_name": "Oenothera laciniata",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Oenothera laciniata'(학명: Oenothera laciniata)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Oenothera%20laciniata"
+  },
+  "226": {
+    "id": 226,
+    "korean_name": "Oenothera speciosa",
+    "scientific_name": "Oenothera speciosa",
+    "taxon_group": "생물",
+    "jeju_observations": 13,
+    "child_description": "안녕! 나는 'Oenothera speciosa'(학명: Oenothera speciosa)이야. 제주도에서 13번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Oenothera%20speciosa"
+  },
+  "227": {
+    "id": 227,
+    "korean_name": "Oides decempunctata",
+    "scientific_name": "Oides decempunctata",
+    "taxon_group": "생물",
+    "jeju_observations": 36,
+    "child_description": "안녕! 나는 'Oides decempunctata'(학명: Oides decempunctata)이야. 제주도에서 36번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Oides%20decempunctata"
+  },
+  "228": {
+    "id": 228,
+    "korean_name": "Oplegnathus fasciatus",
+    "scientific_name": "Oplegnathus fasciatus",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Oplegnathus fasciatus'(학명: Oplegnathus fasciatus)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Oplegnathus%20fasciatus"
+  },
+  "229": {
+    "id": 229,
+    "korean_name": "Opuntia stricta",
+    "scientific_name": "Opuntia stricta",
+    "taxon_group": "생물",
+    "jeju_observations": 21,
+    "child_description": "안녕! 나는 'Opuntia stricta'(학명: Opuntia stricta)이야. 제주도에서 21번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Opuntia%20stricta"
+  },
+  "230": {
+    "id": 230,
+    "korean_name": "Oriolus chinensis",
+    "scientific_name": "Oriolus chinensis",
+    "taxon_group": "생물",
+    "jeju_observations": 19,
+    "child_description": "안녕! 나는 'Oriolus chinensis'(학명: Oriolus chinensis)이야. 제주도에서 19번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Oriolus%20chinensis"
+  },
+  "231": {
+    "id": 231,
+    "korean_name": "Orthetrum albistylum",
+    "scientific_name": "Orthetrum albistylum",
+    "taxon_group": "생물",
+    "jeju_observations": 19,
+    "child_description": "안녕! 나는 'Orthetrum albistylum'(학명: Orthetrum albistylum)이야. 제주도에서 19번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Orthetrum%20albistylum"
+  },
+  "232": {
+    "id": 232,
+    "korean_name": "Orthetrum melania",
+    "scientific_name": "Orthetrum melania",
+    "taxon_group": "생물",
+    "jeju_observations": 13,
+    "child_description": "안녕! 나는 'Orthetrum melania'(학명: Orthetrum melania)이야. 제주도에서 13번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Orthetrum%20melania"
+  },
+  "233": {
+    "id": 233,
+    "korean_name": "Osmunda japonica",
+    "scientific_name": "Osmunda japonica",
+    "taxon_group": "생물",
+    "jeju_observations": 53,
+    "child_description": "안녕! 나는 'Osmunda japonica'(학명: Osmunda japonica)이야. 제주도에서 53번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Osmunda%20japonica"
+  },
+  "234": {
+    "id": 234,
+    "korean_name": "Oxalis articulata",
+    "scientific_name": "Oxalis articulata",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Oxalis articulata'(학명: Oxalis articulata)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Oxalis%20articulata"
+  },
+  "235": {
+    "id": 235,
+    "korean_name": "Oxalis corniculata",
+    "scientific_name": "Oxalis corniculata",
+    "taxon_group": "생물",
+    "jeju_observations": 13,
+    "child_description": "안녕! 나는 'Oxalis corniculata'(학명: Oxalis corniculata)이야. 제주도에서 13번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Oxalis%20corniculata"
+  },
+  "236": {
+    "id": 236,
+    "korean_name": "Oxalis debilis",
+    "scientific_name": "Oxalis debilis",
+    "taxon_group": "생물",
+    "jeju_observations": 14,
+    "child_description": "안녕! 나는 'Oxalis debilis'(학명: Oxalis debilis)이야. 제주도에서 14번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Oxalis%20debilis"
+  },
+  "237": {
+    "id": 237,
+    "korean_name": "Paederia foetida",
+    "scientific_name": "Paederia foetida",
+    "taxon_group": "생물",
+    "jeju_observations": 22,
+    "child_description": "안녕! 나는 'Paederia foetida'(학명: Paederia foetida)이야. 제주도에서 22번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Paederia%20foetida"
+  },
+  "238": {
+    "id": 238,
+    "korean_name": "Pandion haliaetus",
+    "scientific_name": "Pandion haliaetus",
+    "taxon_group": "생물",
+    "jeju_observations": 86,
+    "child_description": "안녕! 나는 'Pandion haliaetus'(학명: Pandion haliaetus)이야. 제주도에서 86번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Pandion%20haliaetus"
+  },
+  "239": {
+    "id": 239,
+    "korean_name": "Papilio dehaanii",
+    "scientific_name": "Papilio dehaanii",
+    "taxon_group": "생물",
+    "jeju_observations": 51,
+    "child_description": "안녕! 나는 'Papilio dehaanii'(학명: Papilio dehaanii)이야. 제주도에서 51번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Papilio%20dehaanii"
+  },
+  "240": {
+    "id": 240,
+    "korean_name": "Papilio xuthus",
+    "scientific_name": "Papilio xuthus",
+    "taxon_group": "생물",
+    "jeju_observations": 46,
+    "child_description": "안녕! 나는 'Papilio xuthus'(학명: Papilio xuthus)이야. 제주도에서 46번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Papilio%20xuthus"
+  },
+  "241": {
+    "id": 241,
+    "korean_name": "Parapodisma setouchiensis",
+    "scientific_name": "Parapodisma setouchiensis",
+    "taxon_group": "생물",
+    "jeju_observations": 53,
+    "child_description": "안녕! 나는 'Parapodisma setouchiensis'(학명: Parapodisma setouchiensis)이야. 제주도에서 53번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Parapodisma%20setouchiensis"
+  },
+  "242": {
+    "id": 242,
+    "korean_name": "Parnara guttata",
+    "scientific_name": "Parnara guttata",
+    "taxon_group": "생물",
+    "jeju_observations": 43,
+    "child_description": "안녕! 나는 'Parnara guttata'(학명: Parnara guttata)이야. 제주도에서 43번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Parnara%20guttata"
+  },
+  "243": {
+    "id": 243,
+    "korean_name": "Parus cinereus",
+    "scientific_name": "Parus cinereus",
+    "taxon_group": "생물",
+    "jeju_observations": 120,
+    "child_description": "안녕! 나는 'Parus cinereus'(학명: Parus cinereus)이야. 제주도에서 120번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Parus%20cinereus"
+  },
+  "244": {
+    "id": 244,
+    "korean_name": "Passer montanus",
+    "scientific_name": "Passer montanus",
+    "taxon_group": "생물",
+    "jeju_observations": 152,
+    "child_description": "안녕! 나는 'Passer montanus'(학명: Passer montanus)이야. 제주도에서 152번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Passer%20montanus"
+  },
+  "245": {
+    "id": 245,
+    "korean_name": "Patanga japonica",
+    "scientific_name": "Patanga japonica",
+    "taxon_group": "생물",
+    "jeju_observations": 40,
+    "child_description": "안녕! 나는 'Patanga japonica'(학명: Patanga japonica)이야. 제주도에서 40번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Patanga%20japonica"
+  },
+  "246": {
+    "id": 246,
+    "korean_name": "Pelophylax nigromaculatus",
+    "scientific_name": "Pelophylax nigromaculatus",
+    "taxon_group": "생물",
+    "jeju_observations": 45,
+    "child_description": "안녕! 나는 'Pelophylax nigromaculatus'(학명: Pelophylax nigromaculatus)이야. 제주도에서 45번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Pelophylax%20nigromaculatus"
+  },
+  "247": {
+    "id": 247,
+    "korean_name": "Pelopidas mathias",
+    "scientific_name": "Pelopidas mathias",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Pelopidas mathias'(학명: Pelopidas mathias)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Pelopidas%20mathias"
+  },
+  "248": {
+    "id": 248,
+    "korean_name": "Pericrocotus divaricatus",
+    "scientific_name": "Pericrocotus divaricatus",
+    "taxon_group": "생물",
+    "jeju_observations": 32,
+    "child_description": "안녕! 나는 'Pericrocotus divaricatus'(학명: Pericrocotus divaricatus)이야. 제주도에서 32번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Pericrocotus%20divaricatus"
+  },
+  "249": {
+    "id": 249,
+    "korean_name": "Pericrocotus tegimae",
+    "scientific_name": "Pericrocotus tegimae",
+    "taxon_group": "생물",
+    "jeju_observations": 13,
+    "child_description": "안녕! 나는 'Pericrocotus tegimae'(학명: Pericrocotus tegimae)이야. 제주도에서 13번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Pericrocotus%20tegimae"
+  },
+  "250": {
+    "id": 250,
+    "korean_name": "Periparus ater",
+    "scientific_name": "Periparus ater",
+    "taxon_group": "생물",
+    "jeju_observations": 33,
+    "child_description": "안녕! 나는 'Periparus ater'(학명: Periparus ater)이야. 제주도에서 33번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Periparus%20ater"
+  },
+  "251": {
+    "id": 251,
+    "korean_name": "Periparus venustulus",
+    "scientific_name": "Periparus venustulus",
+    "taxon_group": "생물",
+    "jeju_observations": 38,
+    "child_description": "안녕! 나는 'Periparus venustulus'(학명: Periparus venustulus)이야. 제주도에서 38번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Periparus%20venustulus"
+  },
+  "252": {
+    "id": 252,
+    "korean_name": "Pernis ptilorhynchus",
+    "scientific_name": "Pernis ptilorhynchus",
+    "taxon_group": "생물",
+    "jeju_observations": 24,
+    "child_description": "안녕! 나는 'Pernis ptilorhynchus'(학명: Pernis ptilorhynchus)이야. 제주도에서 24번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Pernis%20ptilorhynchus"
+  },
+  "253": {
+    "id": 253,
+    "korean_name": "Persicaria filiformis",
+    "scientific_name": "Persicaria filiformis",
+    "taxon_group": "생물",
+    "jeju_observations": 14,
+    "child_description": "안녕! 나는 'Persicaria filiformis'(학명: Persicaria filiformis)이야. 제주도에서 14번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Persicaria%20filiformis"
+  },
+  "254": {
+    "id": 254,
+    "korean_name": "Phalacrocorax capillatus",
+    "scientific_name": "Phalacrocorax capillatus",
+    "taxon_group": "생물",
+    "jeju_observations": 236,
+    "child_description": "안녕! 나는 'Phalacrocorax capillatus'(학명: Phalacrocorax capillatus)이야. 제주도에서 236번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Phalacrocorax%20capillatus"
+  },
+  "255": {
+    "id": 255,
+    "korean_name": "Phalacrocorax carbo",
+    "scientific_name": "Phalacrocorax carbo",
+    "taxon_group": "생물",
+    "jeju_observations": 43,
+    "child_description": "안녕! 나는 'Phalacrocorax carbo'(학명: Phalacrocorax carbo)이야. 제주도에서 43번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Phalacrocorax%20carbo"
+  },
+  "256": {
+    "id": 256,
+    "korean_name": "Phalera flavescens",
+    "scientific_name": "Phalera flavescens",
+    "taxon_group": "생물",
+    "jeju_observations": 16,
+    "child_description": "안녕! 나는 'Phalera flavescens'(학명: Phalera flavescens)이야. 제주도에서 16번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Phalera%20flavescens"
+  },
+  "257": {
+    "id": 257,
+    "korean_name": "Phaneroptera nigroantennata",
+    "scientific_name": "Phaneroptera nigroantennata",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Phaneroptera nigroantennata'(학명: Phaneroptera nigroantennata)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Phaneroptera%20nigroantennata"
+  },
+  "258": {
+    "id": 258,
+    "korean_name": "Phasianus colchicus",
+    "scientific_name": "Phasianus colchicus",
+    "taxon_group": "생물",
+    "jeju_observations": 94,
+    "child_description": "안녕! 나는 'Phasianus colchicus'(학명: Phasianus colchicus)이야. 제주도에서 94번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Phasianus%20colchicus"
+  },
+  "259": {
+    "id": 259,
+    "korean_name": "Phoenicurus auroreus",
+    "scientific_name": "Phoenicurus auroreus",
+    "taxon_group": "생물",
+    "jeju_observations": 58,
+    "child_description": "안녕! 나는 'Phoenicurus auroreus'(학명: Phoenicurus auroreus)이야. 제주도에서 58번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Phoenicurus%20auroreus"
+  },
+  "260": {
+    "id": 260,
+    "korean_name": "Phraortes elongatus",
+    "scientific_name": "Phraortes elongatus",
+    "taxon_group": "생물",
+    "jeju_observations": 19,
+    "child_description": "안녕! 나는 'Phraortes elongatus'(학명: Phraortes elongatus)이야. 제주도에서 19번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Phraortes%20elongatus"
+  },
+  "261": {
+    "id": 261,
+    "korean_name": "Phylloscopus coronatus",
+    "scientific_name": "Phylloscopus coronatus",
+    "taxon_group": "생물",
+    "jeju_observations": 26,
+    "child_description": "안녕! 나는 'Phylloscopus coronatus'(학명: Phylloscopus coronatus)이야. 제주도에서 26번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Phylloscopus%20coronatus"
+  },
+  "262": {
+    "id": 262,
+    "korean_name": "Phylloscopus fuscatus",
+    "scientific_name": "Phylloscopus fuscatus",
+    "taxon_group": "생물",
+    "jeju_observations": 15,
+    "child_description": "안녕! 나는 'Phylloscopus fuscatus'(학명: Phylloscopus fuscatus)이야. 제주도에서 15번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Phylloscopus%20fuscatus"
+  },
+  "263": {
+    "id": 263,
+    "korean_name": "Phylloscopus inornatus",
+    "scientific_name": "Phylloscopus inornatus",
+    "taxon_group": "생물",
+    "jeju_observations": 59,
+    "child_description": "안녕! 나는 'Phylloscopus inornatus'(학명: Phylloscopus inornatus)이야. 제주도에서 59번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Phylloscopus%20inornatus"
+  },
+  "264": {
+    "id": 264,
+    "korean_name": "Phylloscopus proregulus",
+    "scientific_name": "Phylloscopus proregulus",
+    "taxon_group": "생물",
+    "jeju_observations": 12,
+    "child_description": "안녕! 나는 'Phylloscopus proregulus'(학명: Phylloscopus proregulus)이야. 제주도에서 12번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Phylloscopus%20proregulus"
+  },
+  "265": {
+    "id": 265,
+    "korean_name": "Pica serica",
+    "scientific_name": "Pica serica",
+    "taxon_group": "생물",
+    "jeju_observations": 194,
+    "child_description": "안녕! 나는 'Pica serica'(학명: Pica serica)이야. 제주도에서 194번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Pica%20serica"
+  },
+  "266": {
+    "id": 266,
+    "korean_name": "Pieris rapae",
+    "scientific_name": "Pieris rapae",
+    "taxon_group": "생물",
+    "jeju_observations": 24,
+    "child_description": "안녕! 나는 'Pieris rapae'(학명: Pieris rapae)이야. 제주도에서 24번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Pieris%20rapae"
+  },
+  "267": {
+    "id": 267,
+    "korean_name": "Pitta nympha",
+    "scientific_name": "Pitta nympha",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Pitta nympha'(학명: Pitta nympha)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Pitta%20nympha"
+  },
+  "268": {
+    "id": 268,
+    "korean_name": "Pittosporum tobira",
+    "scientific_name": "Pittosporum tobira",
+    "taxon_group": "생물",
+    "jeju_observations": 49,
+    "child_description": "안녕! 나는 'Pittosporum tobira'(학명: Pittosporum tobira)이야. 제주도에서 49번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Pittosporum%20tobira"
+  },
+  "269": {
+    "id": 269,
+    "korean_name": "Platalea leucorodia",
+    "scientific_name": "Platalea leucorodia",
+    "taxon_group": "생물",
+    "jeju_observations": 19,
+    "child_description": "안녕! 나는 'Platalea leucorodia'(학명: Platalea leucorodia)이야. 제주도에서 19번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Platalea%20leucorodia"
+  },
+  "270": {
+    "id": 270,
+    "korean_name": "Platalea minor",
+    "scientific_name": "Platalea minor",
+    "taxon_group": "생물",
+    "jeju_observations": 55,
+    "child_description": "안녕! 나는 'Platalea minor'(학명: Platalea minor)이야. 제주도에서 55번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Platalea%20minor"
+  },
+  "271": {
+    "id": 271,
+    "korean_name": "Plautia stali",
+    "scientific_name": "Plautia stali",
+    "taxon_group": "생물",
+    "jeju_observations": 12,
+    "child_description": "안녕! 나는 'Plautia stali'(학명: Plautia stali)이야. 제주도에서 12번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Plautia%20stali"
+  },
+  "272": {
+    "id": 272,
+    "korean_name": "Pluvialis fulva",
+    "scientific_name": "Pluvialis fulva",
+    "taxon_group": "생물",
+    "jeju_observations": 17,
+    "child_description": "안녕! 나는 'Pluvialis fulva'(학명: Pluvialis fulva)이야. 제주도에서 17번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Pluvialis%20fulva"
+  },
+  "273": {
+    "id": 273,
+    "korean_name": "Pluvialis squatarola",
+    "scientific_name": "Pluvialis squatarola",
+    "taxon_group": "생물",
+    "jeju_observations": 19,
+    "child_description": "안녕! 나는 'Pluvialis squatarola'(학명: Pluvialis squatarola)이야. 제주도에서 19번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Pluvialis%20squatarola"
+  },
+  "274": {
+    "id": 274,
+    "korean_name": "Podiceps cristatus",
+    "scientific_name": "Podiceps cristatus",
+    "taxon_group": "생물",
+    "jeju_observations": 45,
+    "child_description": "안녕! 나는 'Podiceps cristatus'(학명: Podiceps cristatus)이야. 제주도에서 45번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Podiceps%20cristatus"
+  },
+  "275": {
+    "id": 275,
+    "korean_name": "Podiceps nigricollis",
+    "scientific_name": "Podiceps nigricollis",
+    "taxon_group": "생물",
+    "jeju_observations": 18,
+    "child_description": "안녕! 나는 'Podiceps nigricollis'(학명: Podiceps nigricollis)이야. 제주도에서 18번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Podiceps%20nigricollis"
+  },
+  "276": {
+    "id": 276,
+    "korean_name": "Polistes rothneyi",
+    "scientific_name": "Polistes rothneyi",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Polistes rothneyi'(학명: Polistes rothneyi)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Polistes%20rothneyi"
+  },
+  "277": {
+    "id": 277,
+    "korean_name": "Polistes rothneyi iwatai",
+    "scientific_name": "Polistes rothneyi iwatai",
+    "taxon_group": "생물",
+    "jeju_observations": 13,
+    "child_description": "안녕! 나는 'Polistes rothneyi iwatai'(학명: Polistes rothneyi iwatai)이야. 제주도에서 13번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Polistes%20rothneyi%20iwatai"
+  },
+  "278": {
+    "id": 278,
+    "korean_name": "Polygonia c-aureum",
+    "scientific_name": "Polygonia c-aureum",
+    "taxon_group": "생물",
+    "jeju_observations": 32,
+    "child_description": "안녕! 나는 'Polygonia c-aureum'(학명: Polygonia c-aureum)이야. 제주도에서 32번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Polygonia%20c-aureum"
+  },
+  "279": {
+    "id": 279,
+    "korean_name": "Polystichum lepidocaulon",
+    "scientific_name": "Polystichum lepidocaulon",
+    "taxon_group": "생물",
+    "jeju_observations": 14,
+    "child_description": "안녕! 나는 'Polystichum lepidocaulon'(학명: Polystichum lepidocaulon)이야. 제주도에서 14번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Polystichum%20lepidocaulon"
+  },
+  "280": {
+    "id": 280,
+    "korean_name": "Polystichum polyblepharon",
+    "scientific_name": "Polystichum polyblepharon",
+    "taxon_group": "생물",
+    "jeju_observations": 16,
+    "child_description": "안녕! 나는 'Polystichum polyblepharon'(학명: Polystichum polyblepharon)이야. 제주도에서 16번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Polystichum%20polyblepharon"
+  },
+  "281": {
+    "id": 281,
+    "korean_name": "Polystichum tripteron",
+    "scientific_name": "Polystichum tripteron",
+    "taxon_group": "생물",
+    "jeju_observations": 14,
+    "child_description": "안녕! 나는 'Polystichum tripteron'(학명: Polystichum tripteron)이야. 제주도에서 14번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Polystichum%20tripteron"
+  },
+  "282": {
+    "id": 282,
+    "korean_name": "Potentilla indica",
+    "scientific_name": "Potentilla indica",
+    "taxon_group": "생물",
+    "jeju_observations": 12,
+    "child_description": "안녕! 나는 'Potentilla indica'(학명: Potentilla indica)이야. 제주도에서 12번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Potentilla%20indica"
+  },
+  "283": {
+    "id": 283,
+    "korean_name": "Pristomyrmex punctatus",
+    "scientific_name": "Pristomyrmex punctatus",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Pristomyrmex punctatus'(학명: Pristomyrmex punctatus)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Pristomyrmex%20punctatus"
+  },
+  "284": {
+    "id": 284,
+    "korean_name": "Promethis valgipes",
+    "scientific_name": "Promethis valgipes",
+    "taxon_group": "생물",
+    "jeju_observations": 14,
+    "child_description": "안녕! 나는 'Promethis valgipes'(학명: Promethis valgipes)이야. 제주도에서 14번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Promethis%20valgipes"
+  },
+  "285": {
+    "id": 285,
+    "korean_name": "Prosopocoilus astacoides blanchardi",
+    "scientific_name": "Prosopocoilus astacoides blanchardi",
+    "taxon_group": "생물",
+    "jeju_observations": 19,
+    "child_description": "안녕! 나는 'Prosopocoilus astacoides blanchardi'(학명: Prosopocoilus astacoides blanchardi)이야. 제주도에서 19번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Prosopocoilus%20astacoides%20blanchardi"
+  },
+  "286": {
+    "id": 286,
+    "korean_name": "Protaetia orientalis",
+    "scientific_name": "Protaetia orientalis",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Protaetia orientalis'(학명: Protaetia orientalis)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Protaetia%20orientalis"
+  },
+  "287": {
+    "id": 287,
+    "korean_name": "Prumna halrasana",
+    "scientific_name": "Prumna halrasana",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Prumna halrasana'(학명: Prumna halrasana)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Prumna%20halrasana"
+  },
+  "288": {
+    "id": 288,
+    "korean_name": "Pseudocolus fusiformis",
+    "scientific_name": "Pseudocolus fusiformis",
+    "taxon_group": "생물",
+    "jeju_observations": 13,
+    "child_description": "안녕! 나는 'Pseudocolus fusiformis'(학명: Pseudocolus fusiformis)이야. 제주도에서 13번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Pseudocolus%20fusiformis"
+  },
+  "289": {
+    "id": 289,
+    "korean_name": "Pseudozizeeria maha",
+    "scientific_name": "Pseudozizeeria maha",
+    "taxon_group": "생물",
+    "jeju_observations": 50,
+    "child_description": "안녕! 나는 'Pseudozizeeria maha'(학명: Pseudozizeeria maha)이야. 제주도에서 50번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Pseudozizeeria%20maha"
+  },
+  "290": {
+    "id": 290,
+    "korean_name": "Psyrana japonica",
+    "scientific_name": "Psyrana japonica",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Psyrana japonica'(학명: Psyrana japonica)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Psyrana%20japonica"
+  },
+  "291": {
+    "id": 291,
+    "korean_name": "Pteridium latiusculum japonicum",
+    "scientific_name": "Pteridium latiusculum japonicum",
+    "taxon_group": "생물",
+    "jeju_observations": 23,
+    "child_description": "안녕! 나는 'Pteridium latiusculum japonicum'(학명: Pteridium latiusculum japonicum)이야. 제주도에서 23번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Pteridium%20latiusculum%20japonicum"
+  },
+  "292": {
+    "id": 292,
+    "korean_name": "Pueraria montana",
+    "scientific_name": "Pueraria montana",
+    "taxon_group": "생물",
+    "jeju_observations": 27,
+    "child_description": "안녕! 나는 'Pueraria montana'(학명: Pueraria montana)이야. 제주도에서 27번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Pueraria%20montana"
+  },
+  "293": {
+    "id": 293,
+    "korean_name": "Pycnonotus sinensis",
+    "scientific_name": "Pycnonotus sinensis",
+    "taxon_group": "생물",
+    "jeju_observations": 136,
+    "child_description": "안녕! 나는 'Pycnonotus sinensis'(학명: Pycnonotus sinensis)이야. 제주도에서 136번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Pycnonotus%20sinensis"
+  },
+  "294": {
+    "id": 294,
+    "korean_name": "Pyrrosia lingua",
+    "scientific_name": "Pyrrosia lingua",
+    "taxon_group": "생물",
+    "jeju_observations": 34,
+    "child_description": "안녕! 나는 'Pyrrosia lingua'(학명: Pyrrosia lingua)이야. 제주도에서 34번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Pyrrosia%20lingua"
+  },
+  "295": {
+    "id": 295,
+    "korean_name": "Rana uenoi",
+    "scientific_name": "Rana uenoi",
+    "taxon_group": "생물",
+    "jeju_observations": 28,
+    "child_description": "안녕! 나는 'Rana uenoi'(학명: Rana uenoi)이야. 제주도에서 28번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Rana%20uenoi"
+  },
+  "296": {
+    "id": 296,
+    "korean_name": "Recurvirostra avosetta",
+    "scientific_name": "Recurvirostra avosetta",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Recurvirostra avosetta'(학명: Recurvirostra avosetta)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Recurvirostra%20avosetta"
+  },
+  "297": {
+    "id": 297,
+    "korean_name": "Regulus regulus",
+    "scientific_name": "Regulus regulus",
+    "taxon_group": "생물",
+    "jeju_observations": 22,
+    "child_description": "안녕! 나는 'Regulus regulus'(학명: Regulus regulus)이야. 제주도에서 22번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Regulus%20regulus"
+  },
+  "298": {
+    "id": 298,
+    "korean_name": "Rhabdophis lateralis",
+    "scientific_name": "Rhabdophis lateralis",
+    "taxon_group": "생물",
+    "jeju_observations": 38,
+    "child_description": "안녕! 나는 'Rhabdophis lateralis'(학명: Rhabdophis lateralis)이야. 제주도에서 38번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Rhabdophis%20lateralis"
+  },
+  "299": {
+    "id": 299,
+    "korean_name": "Rubus parvifolius",
+    "scientific_name": "Rubus parvifolius",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Rubus parvifolius'(학명: Rubus parvifolius)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Rubus%20parvifolius"
+  },
+  "300": {
+    "id": 300,
+    "korean_name": "Samia cynthia",
+    "scientific_name": "Samia cynthia",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Samia cynthia'(학명: Samia cynthia)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Samia%20cynthia"
+  },
+  "301": {
+    "id": 301,
+    "korean_name": "Sasa quelpaertensis",
+    "scientific_name": "Sasa quelpaertensis",
+    "taxon_group": "생물",
+    "jeju_observations": 120,
+    "child_description": "안녕! 나는 'Sasa quelpaertensis'(학명: Sasa quelpaertensis)이야. 제주도에서 120번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Sasa%20quelpaertensis"
+  },
+  "302": {
+    "id": 302,
+    "korean_name": "Saxicola stejnegeri",
+    "scientific_name": "Saxicola stejnegeri",
+    "taxon_group": "생물",
+    "jeju_observations": 56,
+    "child_description": "안녕! 나는 'Saxicola stejnegeri'(학명: Saxicola stejnegeri)이야. 제주도에서 56번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Saxicola%20stejnegeri"
+  },
+  "303": {
+    "id": 303,
+    "korean_name": "Schoeniclus aureolus",
+    "scientific_name": "Schoeniclus aureolus",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Schoeniclus aureolus'(학명: Schoeniclus aureolus)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Schoeniclus%20aureolus"
+  },
+  "304": {
+    "id": 304,
+    "korean_name": "Schoeniclus chrysophrys",
+    "scientific_name": "Schoeniclus chrysophrys",
+    "taxon_group": "생물",
+    "jeju_observations": 29,
+    "child_description": "안녕! 나는 'Schoeniclus chrysophrys'(학명: Schoeniclus chrysophrys)이야. 제주도에서 29번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Schoeniclus%20chrysophrys"
+  },
+  "305": {
+    "id": 305,
+    "korean_name": "Schoeniclus elegans",
+    "scientific_name": "Schoeniclus elegans",
+    "taxon_group": "생물",
+    "jeju_observations": 87,
+    "child_description": "안녕! 나는 'Schoeniclus elegans'(학명: Schoeniclus elegans)이야. 제주도에서 87번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Schoeniclus%20elegans"
+  },
+  "306": {
+    "id": 306,
+    "korean_name": "Schoeniclus personatus",
+    "scientific_name": "Schoeniclus personatus",
+    "taxon_group": "생물",
+    "jeju_observations": 13,
+    "child_description": "안녕! 나는 'Schoeniclus personatus'(학명: Schoeniclus personatus)이야. 제주도에서 13번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Schoeniclus%20personatus"
+  },
+  "307": {
+    "id": 307,
+    "korean_name": "Schoeniclus pusillus",
+    "scientific_name": "Schoeniclus pusillus",
+    "taxon_group": "생물",
+    "jeju_observations": 43,
+    "child_description": "안녕! 나는 'Schoeniclus pusillus'(학명: Schoeniclus pusillus)이야. 제주도에서 43번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Schoeniclus%20pusillus"
+  },
+  "308": {
+    "id": 308,
+    "korean_name": "Schoeniclus rusticus",
+    "scientific_name": "Schoeniclus rusticus",
+    "taxon_group": "생물",
+    "jeju_observations": 21,
+    "child_description": "안녕! 나는 'Schoeniclus rusticus'(학명: Schoeniclus rusticus)이야. 제주도에서 21번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Schoeniclus%20rusticus"
+  },
+  "309": {
+    "id": 309,
+    "korean_name": "Schoeniclus rutilus",
+    "scientific_name": "Schoeniclus rutilus",
+    "taxon_group": "생물",
+    "jeju_observations": 18,
+    "child_description": "안녕! 나는 'Schoeniclus rutilus'(학명: Schoeniclus rutilus)이야. 제주도에서 18번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Schoeniclus%20rutilus"
+  },
+  "310": {
+    "id": 310,
+    "korean_name": "Schoeniclus spodocephalus",
+    "scientific_name": "Schoeniclus spodocephalus",
+    "taxon_group": "생물",
+    "jeju_observations": 110,
+    "child_description": "안녕! 나는 'Schoeniclus spodocephalus'(학명: Schoeniclus spodocephalus)이야. 제주도에서 110번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Schoeniclus%20spodocephalus"
+  },
+  "311": {
+    "id": 311,
+    "korean_name": "Schoeniclus tristrami",
+    "scientific_name": "Schoeniclus tristrami",
+    "taxon_group": "생물",
+    "jeju_observations": 20,
+    "child_description": "안녕! 나는 'Schoeniclus tristrami'(학명: Schoeniclus tristrami)이야. 제주도에서 20번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Schoeniclus%20tristrami"
+  },
+  "312": {
+    "id": 312,
+    "korean_name": "Schoeniclus variabilis",
+    "scientific_name": "Schoeniclus variabilis",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Schoeniclus variabilis'(학명: Schoeniclus variabilis)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Schoeniclus%20variabilis"
+  },
+  "313": {
+    "id": 313,
+    "korean_name": "Scincella vandenburghi",
+    "scientific_name": "Scincella vandenburghi",
+    "taxon_group": "생물",
+    "jeju_observations": 50,
+    "child_description": "안녕! 나는 'Scincella vandenburghi'(학명: Scincella vandenburghi)이야. 제주도에서 50번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Scincella%20vandenburghi"
+  },
+  "314": {
+    "id": 314,
+    "korean_name": "Sebastiscus marmoratus",
+    "scientific_name": "Sebastiscus marmoratus",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Sebastiscus marmoratus'(학명: Sebastiscus marmoratus)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Sebastiscus%20marmoratus"
+  },
+  "315": {
+    "id": 315,
+    "korean_name": "Semiaquilegia adoxoides",
+    "scientific_name": "Semiaquilegia adoxoides",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Semiaquilegia adoxoides'(학명: Semiaquilegia adoxoides)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Semiaquilegia%20adoxoides"
+  },
+  "316": {
+    "id": 316,
+    "korean_name": "Serrognathus titanus",
+    "scientific_name": "Serrognathus titanus",
+    "taxon_group": "생물",
+    "jeju_observations": 13,
+    "child_description": "안녕! 나는 'Serrognathus titanus'(학명: Serrognathus titanus)이야. 제주도에서 13번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Serrognathus%20titanus"
+  },
+  "317": {
+    "id": 317,
+    "korean_name": "Serrognathus titanus castanicolor",
+    "scientific_name": "Serrognathus titanus castanicolor",
+    "taxon_group": "생물",
+    "jeju_observations": 38,
+    "child_description": "안녕! 나는 'Serrognathus titanus castanicolor'(학명: Serrognathus titanus castanicolor)이야. 제주도에서 38번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Serrognathus%20titanus%20castanicolor"
+  },
+  "318": {
+    "id": 318,
+    "korean_name": "Sibirionetta formosa",
+    "scientific_name": "Sibirionetta formosa",
+    "taxon_group": "생물",
+    "jeju_observations": 17,
+    "child_description": "안녕! 나는 'Sibirionetta formosa'(학명: Sibirionetta formosa)이야. 제주도에서 17번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Sibirionetta%20formosa"
+  },
+  "319": {
+    "id": 319,
+    "korean_name": "Sibynophis chinensis",
+    "scientific_name": "Sibynophis chinensis",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Sibynophis chinensis'(학명: Sibynophis chinensis)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Sibynophis%20chinensis"
+  },
+  "320": {
+    "id": 320,
+    "korean_name": "Silene gallica",
+    "scientific_name": "Silene gallica",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Silene gallica'(학명: Silene gallica)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Silene%20gallica"
+  },
+  "321": {
+    "id": 321,
+    "korean_name": "Sinopoda koreana",
+    "scientific_name": "Sinopoda koreana",
+    "taxon_group": "생물",
+    "jeju_observations": 14,
+    "child_description": "안녕! 나는 'Sinopoda koreana'(학명: Sinopoda koreana)이야. 제주도에서 14번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Sinopoda%20koreana"
+  },
+  "322": {
+    "id": 322,
+    "korean_name": "Sittiparus varius",
+    "scientific_name": "Sittiparus varius",
+    "taxon_group": "생물",
+    "jeju_observations": 132,
+    "child_description": "안녕! 나는 'Sittiparus varius'(학명: Sittiparus varius)이야. 제주도에서 132번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Sittiparus%20varius"
+  },
+  "323": {
+    "id": 323,
+    "korean_name": "Spatula clypeata",
+    "scientific_name": "Spatula clypeata",
+    "taxon_group": "생물",
+    "jeju_observations": 33,
+    "child_description": "안녕! 나는 'Spatula clypeata'(학명: Spatula clypeata)이야. 제주도에서 33번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Spatula%20clypeata"
+  },
+  "324": {
+    "id": 324,
+    "korean_name": "Spatula querquedula",
+    "scientific_name": "Spatula querquedula",
+    "taxon_group": "생물",
+    "jeju_observations": 23,
+    "child_description": "안녕! 나는 'Spatula querquedula'(학명: Spatula querquedula)이야. 제주도에서 23번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Spatula%20querquedula"
+  },
+  "325": {
+    "id": 325,
+    "korean_name": "Spinus spinus",
+    "scientific_name": "Spinus spinus",
+    "taxon_group": "생물",
+    "jeju_observations": 69,
+    "child_description": "안녕! 나는 'Spinus spinus'(학명: Spinus spinus)이야. 제주도에서 69번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Spinus%20spinus"
+  },
+  "326": {
+    "id": 326,
+    "korean_name": "Spodiopsar cineraceus",
+    "scientific_name": "Spodiopsar cineraceus",
+    "taxon_group": "생물",
+    "jeju_observations": 45,
+    "child_description": "안녕! 나는 'Spodiopsar cineraceus'(학명: Spodiopsar cineraceus)이야. 제주도에서 45번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Spodiopsar%20cineraceus"
+  },
+  "327": {
+    "id": 327,
+    "korean_name": "Spodiopsar sericeus",
+    "scientific_name": "Spodiopsar sericeus",
+    "taxon_group": "생물",
+    "jeju_observations": 33,
+    "child_description": "안녕! 나는 'Spodiopsar sericeus'(학명: Spodiopsar sericeus)이야. 제주도에서 33번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Spodiopsar%20sericeus"
+  },
+  "328": {
+    "id": 328,
+    "korean_name": "Statilia maculata",
+    "scientific_name": "Statilia maculata",
+    "taxon_group": "생물",
+    "jeju_observations": 14,
+    "child_description": "안녕! 나는 'Statilia maculata'(학명: Statilia maculata)이야. 제주도에서 14번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Statilia%20maculata"
+  },
+  "329": {
+    "id": 329,
+    "korean_name": "Streptopelia orientalis",
+    "scientific_name": "Streptopelia orientalis",
+    "taxon_group": "생물",
+    "jeju_observations": 168,
+    "child_description": "안녕! 나는 'Streptopelia orientalis'(학명: Streptopelia orientalis)이야. 제주도에서 168번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Streptopelia%20orientalis"
+  },
+  "330": {
+    "id": 330,
+    "korean_name": "Sturnus vulgaris",
+    "scientific_name": "Sturnus vulgaris",
+    "taxon_group": "생물",
+    "jeju_observations": 28,
+    "child_description": "안녕! 나는 'Sturnus vulgaris'(학명: Sturnus vulgaris)이야. 제주도에서 28번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Sturnus%20vulgaris"
+  },
+  "331": {
+    "id": 331,
+    "korean_name": "Synthliboramphus wumizusume",
+    "scientific_name": "Synthliboramphus wumizusume",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Synthliboramphus wumizusume'(학명: Synthliboramphus wumizusume)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Synthliboramphus%20wumizusume"
+  },
+  "332": {
+    "id": 332,
+    "korean_name": "Tachybaptus ruficollis",
+    "scientific_name": "Tachybaptus ruficollis",
+    "taxon_group": "생물",
+    "jeju_observations": 43,
+    "child_description": "안녕! 나는 'Tachybaptus ruficollis'(학명: Tachybaptus ruficollis)이야. 제주도에서 43번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Tachybaptus%20ruficollis"
+  },
+  "333": {
+    "id": 333,
+    "korean_name": "Tachycines coreanus",
+    "scientific_name": "Tachycines coreanus",
+    "taxon_group": "생물",
+    "jeju_observations": 24,
+    "child_description": "안녕! 나는 'Tachycines coreanus'(학명: Tachycines coreanus)이야. 제주도에서 24번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Tachycines%20coreanus"
+  },
+  "334": {
+    "id": 334,
+    "korean_name": "Tachyspiza gularis",
+    "scientific_name": "Tachyspiza gularis",
+    "taxon_group": "생물",
+    "jeju_observations": 16,
+    "child_description": "안녕! 나는 'Tachyspiza gularis'(학명: Tachyspiza gularis)이야. 제주도에서 16번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Tachyspiza%20gularis"
+  },
+  "335": {
+    "id": 335,
+    "korean_name": "Tadorna tadorna",
+    "scientific_name": "Tadorna tadorna",
+    "taxon_group": "생물",
+    "jeju_observations": 22,
+    "child_description": "안녕! 나는 'Tadorna tadorna'(학명: Tadorna tadorna)이야. 제주도에서 22번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Tadorna%20tadorna"
+  },
+  "336": {
+    "id": 336,
+    "korean_name": "Tagiades tethys",
+    "scientific_name": "Tagiades tethys",
+    "taxon_group": "생물",
+    "jeju_observations": 18,
+    "child_description": "안녕! 나는 'Tagiades tethys'(학명: Tagiades tethys)이야. 제주도에서 18번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Tagiades%20tethys"
+  },
+  "337": {
+    "id": 337,
+    "korean_name": "Takydromus wolteri",
+    "scientific_name": "Takydromus wolteri",
+    "taxon_group": "생물",
+    "jeju_observations": 12,
+    "child_description": "안녕! 나는 'Takydromus wolteri'(학명: Takydromus wolteri)이야. 제주도에서 12번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Takydromus%20wolteri"
+  },
+  "338": {
+    "id": 338,
+    "korean_name": "Tarsiger cyanurus",
+    "scientific_name": "Tarsiger cyanurus",
+    "taxon_group": "생물",
+    "jeju_observations": 80,
+    "child_description": "안녕! 나는 'Tarsiger cyanurus'(학명: Tarsiger cyanurus)이야. 제주도에서 80번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Tarsiger%20cyanurus"
+  },
+  "339": {
+    "id": 339,
+    "korean_name": "Taxus cuspidata",
+    "scientific_name": "Taxus cuspidata",
+    "taxon_group": "생물",
+    "jeju_observations": 26,
+    "child_description": "안녕! 나는 'Taxus cuspidata'(학명: Taxus cuspidata)이야. 제주도에서 26번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Taxus%20cuspidata"
+  },
+  "340": {
+    "id": 340,
+    "korean_name": "Tenodera sinensis",
+    "scientific_name": "Tenodera sinensis",
+    "taxon_group": "생물",
+    "jeju_observations": 16,
+    "child_description": "안녕! 나는 'Tenodera sinensis'(학명: Tenodera sinensis)이야. 제주도에서 16번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Tenodera%20sinensis"
+  },
+  "341": {
+    "id": 341,
+    "korean_name": "Terpsiphone atrocaudata",
+    "scientific_name": "Terpsiphone atrocaudata",
+    "taxon_group": "생물",
+    "jeju_observations": 44,
+    "child_description": "안녕! 나는 'Terpsiphone atrocaudata'(학명: Terpsiphone atrocaudata)이야. 제주도에서 44번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Terpsiphone%20atrocaudata"
+  },
+  "342": {
+    "id": 342,
+    "korean_name": "Tetragonia tetragonoides",
+    "scientific_name": "Tetragonia tetragonoides",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Tetragonia tetragonoides'(학명: Tetragonia tetragonoides)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Tetragonia%20tetragonoides"
+  },
+  "343": {
+    "id": 343,
+    "korean_name": "Tetrapanax papyrifer",
+    "scientific_name": "Tetrapanax papyrifer",
+    "taxon_group": "생물",
+    "jeju_observations": 15,
+    "child_description": "안녕! 나는 'Tetrapanax papyrifer'(학명: Tetrapanax papyrifer)이야. 제주도에서 15번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Tetrapanax%20papyrifer"
+  },
+  "344": {
+    "id": 344,
+    "korean_name": "Theretra japonica",
+    "scientific_name": "Theretra japonica",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Theretra japonica'(학명: Theretra japonica)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Theretra%20japonica"
+  },
+  "345": {
+    "id": 345,
+    "korean_name": "Thinornis dubius",
+    "scientific_name": "Thinornis dubius",
+    "taxon_group": "생물",
+    "jeju_observations": 48,
+    "child_description": "안녕! 나는 'Thinornis dubius'(학명: Thinornis dubius)이야. 제주도에서 48번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Thinornis%20dubius"
+  },
+  "346": {
+    "id": 346,
+    "korean_name": "Timomenus komarowi",
+    "scientific_name": "Timomenus komarowi",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Timomenus komarowi'(학명: Timomenus komarowi)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Timomenus%20komarowi"
+  },
+  "347": {
+    "id": 347,
+    "korean_name": "Trachemys scripta",
+    "scientific_name": "Trachemys scripta",
+    "taxon_group": "생물",
+    "jeju_observations": 10,
+    "child_description": "안녕! 나는 'Trachemys scripta'(학명: Trachemys scripta)이야. 제주도에서 10번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Trachemys%20scripta"
+  },
+  "348": {
+    "id": 348,
+    "korean_name": "Trichonephila clavata",
+    "scientific_name": "Trichonephila clavata",
+    "taxon_group": "생물",
+    "jeju_observations": 99,
+    "child_description": "안녕! 나는 'Trichonephila clavata'(학명: Trichonephila clavata)이야. 제주도에서 99번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Trichonephila%20clavata"
+  },
+  "349": {
+    "id": 349,
+    "korean_name": "Trifolium repens",
+    "scientific_name": "Trifolium repens",
+    "taxon_group": "생물",
+    "jeju_observations": 22,
+    "child_description": "안녕! 나는 'Trifolium repens'(학명: Trifolium repens)이야. 제주도에서 22번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Trifolium%20repens"
+  },
+  "350": {
+    "id": 350,
+    "korean_name": "Tringa brevipes",
+    "scientific_name": "Tringa brevipes",
+    "taxon_group": "생물",
+    "jeju_observations": 46,
+    "child_description": "안녕! 나는 'Tringa brevipes'(학명: Tringa brevipes)이야. 제주도에서 46번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Tringa%20brevipes"
+  },
+  "351": {
+    "id": 351,
+    "korean_name": "Tringa glareola",
+    "scientific_name": "Tringa glareola",
+    "taxon_group": "생물",
+    "jeju_observations": 26,
+    "child_description": "안녕! 나는 'Tringa glareola'(학명: Tringa glareola)이야. 제주도에서 26번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Tringa%20glareola"
+  },
+  "352": {
+    "id": 352,
+    "korean_name": "Tringa nebularia",
+    "scientific_name": "Tringa nebularia",
+    "taxon_group": "생물",
+    "jeju_observations": 34,
+    "child_description": "안녕! 나는 'Tringa nebularia'(학명: Tringa nebularia)이야. 제주도에서 34번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Tringa%20nebularia"
+  },
+  "353": {
+    "id": 353,
+    "korean_name": "Tringa ochropus",
+    "scientific_name": "Tringa ochropus",
+    "taxon_group": "생물",
+    "jeju_observations": 18,
+    "child_description": "안녕! 나는 'Tringa ochropus'(학명: Tringa ochropus)이야. 제주도에서 18번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Tringa%20ochropus"
+  },
+  "354": {
+    "id": 354,
+    "korean_name": "Truljalia hibinonis",
+    "scientific_name": "Truljalia hibinonis",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Truljalia hibinonis'(학명: Truljalia hibinonis)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Truljalia%20hibinonis"
+  },
+  "355": {
+    "id": 355,
+    "korean_name": "Trypoxylus dichotomus septentrionalis",
+    "scientific_name": "Trypoxylus dichotomus septentrionalis",
+    "taxon_group": "생물",
+    "jeju_observations": 17,
+    "child_description": "안녕! 나는 'Trypoxylus dichotomus septentrionalis'(학명: Trypoxylus dichotomus septentrionalis)이야. 제주도에서 17번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Trypoxylus%20dichotomus%20septentrionalis"
+  },
+  "356": {
+    "id": 356,
+    "korean_name": "Turbo sazae",
+    "scientific_name": "Turbo sazae",
+    "taxon_group": "생물",
+    "jeju_observations": 35,
+    "child_description": "안녕! 나는 'Turbo sazae'(학명: Turbo sazae)이야. 제주도에서 35번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Turbo%20sazae"
+  },
+  "357": {
+    "id": 357,
+    "korean_name": "Turdus cardis",
+    "scientific_name": "Turdus cardis",
+    "taxon_group": "생물",
+    "jeju_observations": 28,
+    "child_description": "안녕! 나는 'Turdus cardis'(학명: Turdus cardis)이야. 제주도에서 28번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Turdus%20cardis"
+  },
+  "358": {
+    "id": 358,
+    "korean_name": "Turdus chrysolaus",
+    "scientific_name": "Turdus chrysolaus",
+    "taxon_group": "생물",
+    "jeju_observations": 15,
+    "child_description": "안녕! 나는 'Turdus chrysolaus'(학명: Turdus chrysolaus)이야. 제주도에서 15번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Turdus%20chrysolaus"
+  },
+  "359": {
+    "id": 359,
+    "korean_name": "Turdus eunomus",
+    "scientific_name": "Turdus eunomus",
+    "taxon_group": "생물",
+    "jeju_observations": 48,
+    "child_description": "안녕! 나는 'Turdus eunomus'(학명: Turdus eunomus)이야. 제주도에서 48번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Turdus%20eunomus"
+  },
+  "360": {
+    "id": 360,
+    "korean_name": "Turdus hortulorum",
+    "scientific_name": "Turdus hortulorum",
+    "taxon_group": "생물",
+    "jeju_observations": 91,
+    "child_description": "안녕! 나는 'Turdus hortulorum'(학명: Turdus hortulorum)이야. 제주도에서 91번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Turdus%20hortulorum"
+  },
+  "361": {
+    "id": 361,
+    "korean_name": "Turdus naumanni",
+    "scientific_name": "Turdus naumanni",
+    "taxon_group": "생물",
+    "jeju_observations": 15,
+    "child_description": "안녕! 나는 'Turdus naumanni'(학명: Turdus naumanni)이야. 제주도에서 15번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Turdus%20naumanni"
+  },
+  "362": {
+    "id": 362,
+    "korean_name": "Turdus obscurus",
+    "scientific_name": "Turdus obscurus",
+    "taxon_group": "생물",
+    "jeju_observations": 20,
+    "child_description": "안녕! 나는 'Turdus obscurus'(학명: Turdus obscurus)이야. 제주도에서 20번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Turdus%20obscurus"
+  },
+  "363": {
+    "id": 363,
+    "korean_name": "Turdus pallidus",
+    "scientific_name": "Turdus pallidus",
+    "taxon_group": "생물",
+    "jeju_observations": 120,
+    "child_description": "안녕! 나는 'Turdus pallidus'(학명: Turdus pallidus)이야. 제주도에서 120번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Turdus%20pallidus"
+  },
+  "364": {
+    "id": 364,
+    "korean_name": "Tursiops aduncus",
+    "scientific_name": "Tursiops aduncus",
+    "taxon_group": "생물",
+    "jeju_observations": 38,
+    "child_description": "안녕! 나는 'Tursiops aduncus'(학명: Tursiops aduncus)이야. 제주도에서 38번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Tursiops%20aduncus"
+  },
+  "365": {
+    "id": 365,
+    "korean_name": "Upupa epops",
+    "scientific_name": "Upupa epops",
+    "taxon_group": "생물",
+    "jeju_observations": 14,
+    "child_description": "안녕! 나는 'Upupa epops'(학명: Upupa epops)이야. 제주도에서 14번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Upupa%20epops"
+  },
+  "366": {
+    "id": 366,
+    "korean_name": "Urile pelagicus",
+    "scientific_name": "Urile pelagicus",
+    "taxon_group": "생물",
+    "jeju_observations": 32,
+    "child_description": "안녕! 나는 'Urile pelagicus'(학명: Urile pelagicus)이야. 제주도에서 32번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Urile%20pelagicus"
+  },
+  "367": {
+    "id": 367,
+    "korean_name": "Validiblatta fuliginosa",
+    "scientific_name": "Validiblatta fuliginosa",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Validiblatta fuliginosa'(학명: Validiblatta fuliginosa)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Validiblatta%20fuliginosa"
+  },
+  "368": {
+    "id": 368,
+    "korean_name": "Vanellus vanellus",
+    "scientific_name": "Vanellus vanellus",
+    "taxon_group": "생물",
+    "jeju_observations": 12,
+    "child_description": "안녕! 나는 'Vanellus vanellus'(학명: Vanellus vanellus)이야. 제주도에서 12번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Vanellus%20vanellus"
+  },
+  "369": {
+    "id": 369,
+    "korean_name": "Vanessa indica",
+    "scientific_name": "Vanessa indica",
+    "taxon_group": "생물",
+    "jeju_observations": 17,
+    "child_description": "안녕! 나는 'Vanessa indica'(학명: Vanessa indica)이야. 제주도에서 17번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Vanessa%20indica"
+  },
+  "370": {
+    "id": 370,
+    "korean_name": "Veronica persica",
+    "scientific_name": "Veronica persica",
+    "taxon_group": "생물",
+    "jeju_observations": 35,
+    "child_description": "안녕! 나는 'Veronica persica'(학명: Veronica persica)이야. 제주도에서 35번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Veronica%20persica"
+  },
+  "371": {
+    "id": 371,
+    "korean_name": "Vitex rotundifolia",
+    "scientific_name": "Vitex rotundifolia",
+    "taxon_group": "생물",
+    "jeju_observations": 61,
+    "child_description": "안녕! 나는 'Vitex rotundifolia'(학명: Vitex rotundifolia)이야. 제주도에서 61번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Vitex%20rotundifolia"
+  },
+  "372": {
+    "id": 372,
+    "korean_name": "Xenus cinereus",
+    "scientific_name": "Xenus cinereus",
+    "taxon_group": "생물",
+    "jeju_observations": 21,
+    "child_description": "안녕! 나는 'Xenus cinereus'(학명: Xenus cinereus)이야. 제주도에서 21번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Xenus%20cinereus"
+  },
+  "373": {
+    "id": 373,
+    "korean_name": "Xylocopa appendiculata",
+    "scientific_name": "Xylocopa appendiculata",
+    "taxon_group": "생물",
+    "jeju_observations": 13,
+    "child_description": "안녕! 나는 'Xylocopa appendiculata'(학명: Xylocopa appendiculata)이야. 제주도에서 13번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Xylocopa%20appendiculata"
+  },
+  "374": {
+    "id": 374,
+    "korean_name": "Ypthima multistriata",
+    "scientific_name": "Ypthima multistriata",
+    "taxon_group": "생물",
+    "jeju_observations": 14,
+    "child_description": "안녕! 나는 'Ypthima multistriata'(학명: Ypthima multistriata)이야. 제주도에서 14번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Ypthima%20multistriata"
+  },
+  "375": {
+    "id": 375,
+    "korean_name": "Zoothera aurea",
+    "scientific_name": "Zoothera aurea",
+    "taxon_group": "생물",
+    "jeju_observations": 19,
+    "child_description": "안녕! 나는 'Zoothera aurea'(학명: Zoothera aurea)이야. 제주도에서 19번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Zoothera%20aurea"
+  },
+  "376": {
+    "id": 376,
+    "korean_name": "Zosterops erythropleurus",
+    "scientific_name": "Zosterops erythropleurus",
+    "taxon_group": "생물",
+    "jeju_observations": 11,
+    "child_description": "안녕! 나는 'Zosterops erythropleurus'(학명: Zosterops erythropleurus)이야. 제주도에서 11번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Zosterops%20erythropleurus"
+  },
+  "377": {
+    "id": 377,
+    "korean_name": "Zosterops japonicus",
+    "scientific_name": "Zosterops japonicus",
+    "taxon_group": "생물",
+    "jeju_observations": 161,
+    "child_description": "안녕! 나는 'Zosterops japonicus'(학명: Zosterops japonicus)이야. 제주도에서 161번이나 관찰된 친구지. 제주도의 아름다운 자연 속에서 살아가는 우리 생물이야. 생김새와 사는 곳을 자세히 관찰해 보자!",
+    "nibr_reference_url": "https://species.nibr.go.kr/home/mainHome.do?searchType=total&searchWord=Zosterops%20japonicus"
+  }
+}
