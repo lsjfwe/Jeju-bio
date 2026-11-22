@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>제주 생물 탐험대 AI 도감</title>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@4.20.0/dist/tf.min.js"></script>
+  <style>
+    * { box-sizing: border-box; font-family: 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif; }
+    body { margin: 0; background: #f2f7f4; color: #1e2d24; display: flex; flex-direction: column; align-items: center; padding: 20px; }
+    .container { max-width: 520px; width: 100%; background: #ffffff; border-radius: 24px; padding: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.08); }
+    h1 { font-size: 1.5rem; text-align: center; color: #1b6b3a; margin: 0 0 8px; }
+    p.subtitle { text-align: center; font-size: 0.92rem; color: #5b7063; margin: 0 0 20px; }
+    .status { text-align: center; padding: 10px; border-radius: 12px; background: #e8f5ee; color: #1b6b3a; font-weight: 600; font-size: 0.9rem; margin-bottom: 16px; }
+    .upload-box { border: 2px dashed #8cc9a3; border-radius: 18px; padding: 28px 16px; text-align: center; cursor: pointer; background: #f9fcfa; transition: 0.2s; }
+    .upload-box:active { background: #e8f5ee; }
+    .upload-btn { display: inline-block; background: #1b6b3a; color: #fff; padding: 12px 22px; border-radius: 14px; font-weight: 700; font-size: 1rem; margin-top: 8px; }
+    input[type="file"] { display: none; }
+    #preview { width: 100%; max-height: 300px; object-fit: contain; border-radius: 16px; margin-top: 16px; display: none; background: #000; }
+    .result-card { display: none; margin-top: 20px; padding: 20px; border-radius: 18px; background: #f4faf6; border: 1.5px solid #bfe3cc; }
+    .badge { display: inline-block; background: #1b6b3a; color: #fff; font-size: 0.8rem; padding: 4px 10px; border-radius: 20px; font-weight: 700; }
+    .species-name { font-size: 1.5rem; font-weight: 800; margin: 10px 0 4px; color: #123821; }
+    .sci-name { font-style: italic; color: #5b7063; font-size: 0.95rem; margin-bottom: 12px; }
+    .desc { font-size: 1rem; line-height: 1.6; background: #fff; padding: 14px; border-radius: 12px; margin-bottom: 14px; }
+    .nibr-btn { display: block; text-align: center; background: #2b59c3; color: #fff; text-decoration: none; padding: 12px; border-radius: 12px; font-weight: 700; font-size: 0.95rem; }
+    .sub-candidates { margin-top: 14px; font-size: 0.85rem; color: #5b7063; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🌿 제주 생물 탐험대 AI 도감</h1>
+    <p class="subtitle">제주에서 만난 동식물 사진을 올리면 AI가 이름을 알려줘요!</p>
+
+    <div id="status" class="status">⏳ AI 도감 모델을 불러오는 중...</div>
+
+    <label class="upload-box" for="imageInput">
+      <div>📸 카메라로 찍거나 사진첩에서 고르기</div>
+      <div class="upload-btn">사진 선택하기</div>
+      <input type="file" id="imageInput" accept="image/*" disabled />
+    </label>
+
+    <img id="preview" alt="미리보기" />
+
+    <div id="resultCard" class="result-card">
+      <span id="confidenceBadge" class="badge">일치율 0%</span>
+      <div id="koreanName" class="species-name">-</div>
+      <div id="scientificName" class="sci-name">-</div>
+      <div id="childDesc" class="desc">-</div>
+      <a id="nibrLink" class="nibr-btn" href="#" target="_blank" rel="noopener">🏛️ 국립생물자원관 공식 도감에서 자세히 보기</a>
+      <div id="subCandidates" class="sub-candidates"></div>
+    </div>
+  </div>
+
+  <script>
+    let model = null;
+    let speciesInfo = null;
+
+    async function init() {
+      const statusEl = document.getElementById("status");
+      const inputEl = document.getElementById("imageInput");
+      try {
+        // 같은 폴더에 있는 model.json과 species_info.json 로드
+        const [loadedModel, infoRes] = await Promise.all([
+          tf.loadGraphModel("./model.json"),
+          fetch("./species_info.json")
+        ]);
+        model = loadedModel;
+        speciesInfo = await infoRes.json();
+
+        statusEl.textContent = "✅ 준비 완료! 제주 생물 사진을 올려보세요.";
+        inputEl.disabled = false;
+      } catch (err) {
+        console.error(err);
+        statusEl.style.background = "#fdecea";
+        statusEl.style.color = "#b71c1c";
+        statusEl.textContent = "❌ 모델 파일을 불러오지 못했습니다. (6개 파일이 같은 폴더에 있는지 확인하세요)";
+      }
+    }
+
+    document.getElementById("imageInput").addEventListener("change", (e) => {
+      const file = e.target.files[0];
+      if (!file || !model) return;
+
+      const preview = document.getElementById("preview");
+      preview.src = URL.createObjectURL(file);
+      preview.style.display = "block";
+
+      preview.onload = async () => {
+        document.getElementById("status").textContent = "🔍 AI가 제주 생물을 분석하고 있어요...";
+        await predict(preview);
+        document.getElementById("status").textContent = "✅ 분석 완료!";
+      };
+    });
+
+    async function predict(imgElement) {
+      const logits = tf.tidy(() => {
+        const tensor = tf.browser.fromPixels(imgElement)
+          .resizeBilinear([224, 224])
+          .toFloat()
+          .expandDims(0);
+        return model.predict(tensor);
+      });
+
+      const probs = await logits.data();
+      logits.dispose();
+
+      // 상위 3개 후보 추출
+      const indexed = Array.from(probs).map((p, i) => ({ idx: i, prob: p }));
+      indexed.sort((a, b) => b.prob - a.prob);
+      const top3 = indexed.slice(0, 3);
+
+      const best = top3[0];
+      const info = speciesInfo[String(best.idx)] || {
+        korean_name: `생물 #${best.idx}`,
+        scientific_name: "Unknown",
+        child_description: "설명을 불러올 수 없습니다.",
+        nibr_reference_url: "https://species.nibr.go.kr"
+      };
+
+      document.getElementById("confidenceBadge").textContent = `AI 확신도 ${(best.prob * 100).toFixed(1)}%`;
+      document.getElementById("koreanName").textContent = info.korean_name;
+      document.getElementById("scientificName").textContent = `${info.scientific_name} (${info.taxon_group || ""})`;
+      document.getElementById("childDesc").textContent = info.child_description;
+      document.getElementById("nibrLink").href = info.nibr_reference_url;
+
+      const others = top3.slice(1).map(item => {
+        const s = speciesInfo[String(item.idx)];
+        return s ? `${s.korean_name} (${(item.prob * 100).toFixed(1)}%)` : "";
+      }).filter(Boolean).join(" · ");
+
+      document.getElementById("subCandidates").textContent = others ? `비슷한 다른 후보: ${others}` : "";
+      document.getElementById("resultCard").style.display = "block";
+    }
+
+    init();
+  </script>
+</body>
+</html>
